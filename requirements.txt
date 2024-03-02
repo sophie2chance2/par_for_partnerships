@@ -1,0 +1,10 @@
+requests
+folium
+pandas
+python-dotenv
+googlemaps
+gspread
+gspread_dataframe
+geopy
+neo4j
+psycopg2

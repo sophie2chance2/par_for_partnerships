@@ -1,0 +1,52 @@
+Record ID,Company name,Status,Record Type,New ICP,Reason not ICP 1,Segment,School Type (picklist),Total Students,Number of child companies,LMS (multi-select),SIS (multi-select),Street Address,State/Region
+6920220227,Aveda Fredric's Institute - Cincinnati,Customer,Franchise,ICP 1,ICP 1,Beauty + Wellness,Private for-profit,345,0,PivotPoint,FAME,"7664 Voice of America Centre Dr - Cincinnati, Ohio",Ohio
+6920184491,Aveda Fredric's Institute Indianapolis - Carmel,Customer,Franchise,ICP 1,ICP 1,Beauty + Wellness,Private for-profit,288,0,PivotPoint,FAME,"2208 East 116th St. - Carmel, Indiana",Indiana
+6709442133,Aveda Institute Des Moines,Customer,Franchise,ICP 1,ICP 1,Beauty + Wellness,Private for-profit,173,0,PivotPoint,FAME,6905 Mills Civic Parkway,Iowa
+4108675504,Eric Fisher Academy - Wichita,Customer,Lone Campus,ICP 1,ICP 1,Beauty + Wellness,Private for-profit,172,,PivotPoint; Klassapp,FAME; Guest Vision,"6727 W Central Wichita, KS",Kansas
+4104332055,Federico Beauty Institute - Sacramento,Customer,Lone Campus,ICP 1,ICP 1,Beauty + Wellness,Private for-profit,303,0,Milady; PivotPoint,RGM,"1515 Sports Drive Ste 100 Sacramento, CA",CA
+4108657997,Mildred Elley - Corporate Office,Customer,Corporate Office,ICP 1,ICP 1,Allied Health,Private for-profit,"2,398",3,Moodle,Campus Cafe,855 Central Ave,New York
+4108664506,Paul Mitchell the School - Boise,Customer,Franchise,ICP 1,ICP 1,Beauty + Wellness,Private for-profit,242,0,PivotPoint,FAME,"1270 S Vinnell Way Boise, ID",ID
+6935670346,Paul Mitchell the School - Chicago,Customer,Franchise,ICP 1,ICP 1,Beauty + Wellness,Private for-profit,205,0,PivotPoint,FAME,"1225 S Halsted St Chicago, IL",IL
+4198745688,Paul Mitchell the School - Colorado Springs,Customer,Franchise,ICP 1,ICP 1,Beauty + Wellness,Private for-profit,222,0,PivotPoint,FAME,"118 West Colorado Avenue Colorado Springs, CO",CO
+4210178808,Paul Mitchell the School - Las Vegas,Customer,Franchise,ICP 1,ICP 1,Beauty + Wellness,Private for-profit,293,0,PivotPoint,FAME,9490 South Eastern Avenue Suite 100,NV
+4108679184,Paul Mitchell the School - Little Rock,Customer,Franchise,ICP 1,ICP 1,Beauty + Wellness,Private for-profit,330,0,PivotPoint,FAME,"4201 E McCain Blvd North Little Rock, AR",AR
+4214555099,Paul Mitchell the School - Provo,Customer,Franchise,ICP 1,ICP 1,Beauty + Wellness,Private for-profit,150,0,PivotPoint,FAME,480 N 900 E,UT
+4108718841,Paul Mitchell the School - San Diego,Customer,Franchise,ICP 1,ICP 1,Beauty + Wellness,Private for-profit,261,0,PivotPoint,FAME,"410 A Street San Diego, CA",California
+4108780792,Paul Mitchell the School - St Louis,Customer,Franchise,ICP 1,ICP 1,Beauty + Wellness,Private for-profit,152,0,PivotPoint,FAME,"30 Maryland Plaza Suite 200 St. Louis, MO",MO
+4214549440,Paul Mitchell the School - Wichita,Customer,Franchise,ICP 1,ICP 1,Beauty + Wellness,Private for-profit,189,0,PivotPoint,FAME,"3242 N. Rock Road Suite 106 Wichita, KS",KS
+4104344650,Penrose Academy - Scottsdale,Customer,Lone Campus,ICP 1,ICP 1,Beauty + Wellness,Private for-profit,318,0,PivotPoint,FAME,"13402 North Scottsdale Road Suite B160 Scottsdale, AZ",AZ
+4104293972,Platt College - Aurora,Customer,Lone Campus,ICP 1,ICP 1,Allied Health,Private for-profit,227,0,Canvas,CampusNexus,"3100 S Parker Rd Aurora, CO",CO
+4406839221,Solano Community College - Fairfield,Customer,Lone Campus,ICP 2,Wrong School Type,Allied Health,Community College,"9,251",0,Canvas,Banner (Ellucian); CampusNexus,"4000 Suisun Valley Rd Fairfield, CA",CA
+4104294128,BOCES - Onondaga-Cortland-Madison Counties,Customer,Lone Campus,ICP 3,Bad Tech Stack,Allied Health,Public,297,,Blackboard,None,"P.O. Box 4754, Syracuse, NY 13211",NY
+4104270905,California Healing Arts College - Carson,Customer,Lone Campus,ICP 3,Bad Tech Stack,Allied Health,Private for-profit,181,0,None,CampusNexus,"500 East Carson Plaza Drive Suite 103 Carson, CA",CA
+4108711573,Midwestern Career College - Corporate Office,Customer,Corporate Office,ICP 3,Unknown SIS,Allied Health,Private for-profit,655,4,D2L,,"100 S Wacker Dr LL1-50 Chicago, IL",IL
+5363530021,Paul Mitchell the School - Arlington,Customer,Franchise,ICP 3,Bad Tech Stack,Beauty + Wellness,Private for-profit,329,0,Milady,FAME,"309 Curtis Mathes Way #101 Arlington, TX",TX
+4104399123,Paul Mitchell the School - Dallas,Customer,Franchise,ICP 3,Bad Tech Stack,Beauty + Wellness,Private for-profit,383,0,Milady,FAME,"2389 Midway Road, Suite A",Tennessee
+4210241753,Paul Mitchell the School - Denver,Customer,Franchise,ICP 3,Bad Tech Stack,Beauty + Wellness,Private for-profit,259,0,Milady,FAME,"405 South Teller Street Lakewood, CO",CO
+4108658193,Paul Mitchell the School - Fresno,Customer,Franchise,ICP 3,Bad Tech Stack,Beauty + Wellness,Private for-profit,303,0,Milady,FAME,"5091 N Fresno Street Ste 104 Fresno, CA",CA
+4108651751,Paul Mitchell the School - Houston,Customer,Franchise,ICP 3,Bad Tech Stack,Beauty + Wellness,Private for-profit,364,0,Milady,FAME,"10516 Katy Fwy Suite A Houston, TX",TX
+5176073941,Paul Mitchell the School - Memphis,Customer,Franchise,ICP 3,Bad Tech Stack,Beauty + Wellness,Private for-profit,230,0,Milady,FAME,3419 Plaza Avenue,TN
+6935670356,Paul Mitchell the School - Michigan,Customer,Franchise,ICP 3,Bad Tech Stack,Beauty + Wellness,Private for-profit,185,0,Milady,FAME,40688 Van Dyke Ave,MI
+4104406736,Paul Mitchell the School - Modesto,Customer,Franchise,ICP 3,Bad Tech Stack,Beauty + Wellness,Private for-profit,347,0,Milady,FAME,3100 McHenry Ave,CA
+4104406747,Paul Mitchell the School - Overland Park,Customer,Franchise,ICP 3,Bad Tech Stack,Beauty + Wellness,Private for-profit,211,0,Milady,FAME,"8731 West 95th Street Overland Park, KS",KS
+4739946769,Paul Mitchell the School - Roanoke,Customer,Franchise,ICP 3,Bad Tech Stack,Beauty + Wellness,Private for-profit,190,0,Milady,FAME,"658 Brandon Ave SW Ste 210 Roanoke, VA",VA
+4108711793,Paul Mitchell the School - Salt Lake City,Customer,Franchise,ICP 3,Bad Tech Stack,Beauty + Wellness,Private for-profit,303,0,Milady,FAME,"1969 East Murray Holladay Road Holladay, UT",UT
+4457897675,Paul Mitchell the School - San Antonio,Customer,Franchise,ICP 3,Bad Tech Stack,Beauty + Wellness,Private for-profit,349,0,Milady,FAME,"18402 US Highway 281 Suite 124 San Antonio, TX",TX
+4214559573,Paul Mitchell the School - Tulsa,Customer,Franchise,ICP 3,Bad Tech Stack,Beauty + Wellness,Private for-profit,232,0,Milady,FAME,14002 East 21st Street Suite 1050,OK
+4108711584,San Francisco Institute of Esthetics & Cosmetology Inc (PMTS Partner),Customer,Franchise,ICP 3,Bad Tech Stack,Beauty + Wellness,Private for-profit,205,0,Milady,FAME,"1067 Folsom St San Francisco, CA",CA
+4108718594,Santa Barbara City College - Santa Barbara,Customer,Lone Campus,ICP 3,Wrong School Type,Community College,Public,"12,525",0,Canvas; PivotPoint,,"721 Cliff Drive Santa Barbara, CA",California
+15637889307,Bergen County Technical Schools,Customer,Lone Campus,ICP 4,Too Small,Career + Trade,Public,80,0,Google Classroom,Power School,540 North Farview Avenue,NJ
+4104294038,DeHart Technical School - Modesto,Customer,Lone Campus,ICP 4,Too Small,Career + Trade,Private for-profit,76,0,None,,"311 Bitritto Way Modesto, CA",CA
+7310626657,Paul Mitchell the School - Arkansas,Customer,Franchise,ICP 4,Too Small,Beauty + Wellness,Private for-profit,118,0,Milady,FAME,505 Cross Creek Mall,Arkansas
+4108658174,Paul Mitchell the School - Clear Lake,Customer,Franchise,ICP 4,Too Small,Beauty + Wellness,Private for-profit,99,0,Milady,FAME,"20807 Gulf Fwy Webster, TX",TX
+4108679264,Paul Mitchell the School - Delaware,Customer,Franchise,ICP 4,Too Small,Beauty + Wellness,Private for-profit,114,0,PivotPoint,FAME,"1420 Pulaski Hwy Newark, DE",DE
+4214555918,Paul Mitchell the School - Grand Rapids,Customer,Franchise,ICP 4,Too Small,Beauty + Wellness,Private for-profit,81,0,Milady,FAME,2855 29th Street SE Suite B,MI
+6935403030,Paul Mitchell the School - Great Lakes,Customer,Franchise,ICP 4,Too Small,Beauty + Wellness,Private for-profit,95,0,Milady,FAME,"2950 Lapeer Road Port Huron, MI",MI
+5546512945,Paul Mitchell the School - Lombard,Customer,Franchise,ICP 4,Too Small,Beauty + Wellness,Private for-profit,126,0,PivotPoint,FAME,106 Yorktown Center,IL
+5531649284,Paul Mitchell the School - Madison,Customer,Franchise,ICP 4,Too Small,Beauty + Wellness,Private for-profit,38,0,Milady,FAME,7021 Tree Lane,WI
+7293698380,Paul Mitchell the School - Merrillville,Customer,Franchise,ICP 4,Too Small,Beauty + Wellness,Private for-profit,111,0,PivotPoint,FAME,"7990 Broadway, Merrillville, IN 46410",Indiana
+4214559572,Paul Mitchell the School - Miami,Customer,Franchise,ICP 4,Too Small,Beauty + Wellness,Private for-profit,126,0,Milady,FAME,"8905 Dadeland Blvd Miami, FL",FL
+4108739685,Paul Mitchell the School - Nampa,Customer,Franchise,ICP 4,Too Small,Beauty + Wellness,Private for-profit,148,0,PivotPoint,FAME,"16803 North Marketplace Boulevard Nampa, ID",ID
+4104399162,Paul Mitchell The School - Norman,Customer,Franchise,ICP 4,Too Small,Beauty + Wellness,Private for-profit,100,0,PivotPoint,FAME,3030 William Pereira,Oklahoma
+4108722984,Paul Mitchell the School - Phoenix,Customer,Franchise,ICP 4,Too Small,Beauty + Wellness,Private for-profit,94,0,Milady,FAME,"3423 W Bethany Home Rd, Phoenix, AZ 85017",Arizona
+4583998591,Paul Mitchell the School - Twin Falls,Customer,Franchise,ICP 4,Too Small,Beauty + Wellness,Private for-profit,42,0,PivotPoint,FAME,113 Main Ave E,ID

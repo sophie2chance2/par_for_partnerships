@@ -1,0 +1,572 @@
+Record ID,Company name,Status,Record Type,New ICP,Reason not ICP 1,Segment,School Type (picklist),Total Students,Number of child companies,LMS (multi-select),SIS (multi-select),Street Address,State/Region
+4104332334,Advanced College - Corporate Office,Target Account,Corporate Office,ICP 1,ICP 1,Allied Health,Private for-profit,486,2,Canvas,RGM,13180 Paramount Boulevard,California
+4108671175,Alaska Career College - Anchorage,Target Account,Lone Campus,ICP 1,ICP 1,Allied Health,Private for-profit,412,,Canvas,CVUE,"1415 E Tudor Road Anchorage, AK",Alaska
+4108718586,American Career College - Corporate Office,Target Account,Corporate Office,ICP 1,ICP 1,Allied Health,Private for-profit,"6,349",3,Canvas; Blackboard,CVUE,1200 N. Magnolia Ave.,California
+4104294015,American College of Education - Indianapolis,Target Account,Lone Campus,ICP 1,ICP 1,Allied Health,Private for-profit,"8,112",,Canvas,Anthology,"101 West Ohio Street Suite 1200 Indianapolis, IN",Indiana
+6920844630,American College of Healthcare and Technology - Corporate Office,Target Account,Corporate Office,ICP 1,ICP 1,Allied Health,Private for-profit,621,3,Moodle,CVUE,11801 Pierce Street,California
+4108675536,American Higher Education Development,Target Account,,ICP 1,ICP 1,Career + Trade,Private for-profit,"1,300",1,Moodle,CampusNexus,116 Village Boulevard,New Jersey
+4108711563,Arizona College & Arizona College of Nursing - Corporate Office,Target Account,Corporate Office,ICP 1,ICP 1,Allied Health,Private for-profit,"5,119",9,Canvas,CampusNexus,600 Corporate Drive Suite 200,Arizona
+4108748771,Auguste Escoffier School of Culinary Arts - Corporate Office,Target Account,Corporate Office,ICP 1,ICP 1,Career + Trade,Private for-profit,"4,266",2,Moodle,CampusNexus,6020-B Dillard Circle,Texas
+4108718708,Automotive Training Center - Corporate Office,Target Account,Corporate Office,ICP 1,ICP 1,Career + Trade,Private for-profit,738,2,D2L,CVUE,114 Pickering Way,Pennsylvania
+6920856189,Avalon School of Cosmetology - Corporate Office,Target Account,Corporate Office,ICP 1,ICP 1,Beauty + Wellness,Private for-profit,"1,160",5,Milady; Moodle,CampusNexus; Anthology,3200 North Hayden Road,Arizona
+4104344606,Aveda - Fort Lauderdale,Prospect,Franchise,ICP 1,ICP 1,Beauty + Wellness,Private for-profit,506,,PivotPoint,FAME,"495 N Semoran Blvd, Ste 6",Florida
+7875882787,Aveda Institute - Portland,Prospect,Franchise,ICP 1,ICP 1,Beauty + Wellness,Private for-profit,219,0,PivotPoint,FAME,"325 NW 13th Avenue - Portland, Oregon",Oregon
+6709454742,Aveda Institute - Rochester,Prospect,Franchise,ICP 1,ICP 1,Beauty + Wellness,Private for-profit,554,0,PivotPoint,FAME,"701 Apache Mall - Rochester, Minnesota",Minnesota
+4108753240,Aveda Institute - Tampa Bay,Prospect,Franchise,ICP 1,ICP 1,Beauty + Wellness,Private for-profit,780,,PivotPoint,FAME,"28272 US Highway 19 N - Clearwater, Florida",Florida
+7718968710,Aveda Institute Maine - Augusta,Prospect,Franchise,ICP 1,ICP 1,Beauty + Wellness,Private for-profit,170,0,PivotPoint; KlassApp,FAME,"43 Bridge Street - Augusta, Maine",Maine
+6920194722,"Aveda Institute Portland - Vancouver, WA Campus",Prospect,Franchise,ICP 1,ICP 1,Beauty + Wellness,Private for-profit,156,0,PivotPoint,FAME,"615 NE 4th Plain Blvd. - Vancouver, Washington",Washington
+4108753897,Aviation Institute of Maintenance - Corporate Office,Target Account,Corporate Office,ICP 1,ICP 1,Career + Trade,Private for-profit,870,12,Canvas,CampusNexus,"2025 Satellite Pointe Duluth, GA",Pennsylvania
+7718828115,Be Aveda Institute - Brandon,Prospect,Franchise,ICP 1,ICP 1,Beauty + Wellness,Private for-profit,177,0,PivotPoint,FAME,"1516 West Brandon Boulevard - Brandon, Florida",Florida
+4104275436,Berks Technical Institute,Target Account,Corporate Office,ICP 1,ICP 1,Allied Health,Private for-profit,429,0,Canvas; Other,CampusNexus,"2205 Ridgewood Rd Wyomissing, PA",Pennsylvania
+4104399140,California College of Barbering and Cosmetology - Stockton,Target Account,Lone Campus,ICP 1,ICP 1,Beauty + Wellness,Private for-profit,235,,PivotPoint,RGM,"1024 E March Lane Stockton, CA",California
+4104275467,Cambridge College of Healthcare & Technology - Delray Beach,Target Account,Lone Campus,ICP 1,ICP 1,Allied Health,Private for-profit,323,1,Blackboard,CampusNexus,"5150 Linton Blvd Suite 340 Delray Beach, FL",Florida
+4109190578,Cambridge College of Healthcare & Technology - Springs,Target Account,Lone Campus,ICP 1,ICP 1,Allied Health,Private for-profit,377,0,Blackboard,CampusNexus,"460 E. Altamonte Drive 3rd Floor Altamonte Springs, FL",Florida
+4104293971,CDE Career Institute - Tannersville,Target Account,Lone Campus,ICP 1,ICP 1,Allied Health,Private for-profit,257,,Canvas,FAME,"2942 Route 611 Tannersville, PA",Pennsylvania
+4108739477,Centura College - Corporate Office,Target Account,Corporate Office,ICP 1,ICP 1,Career + Trade,Private for-profit,"2,094",6,Canvas,CampusNexus,932 B Ventures Way,Florida
+4104399114,Culinary Institute Inc - Houston,Target Account,Lone Campus,ICP 1,ICP 1,Beauty + Wellness,Private for-profit,303,,Canvas,CampusNexus; Anthology,"7070 Allensby Houston, TX",Texas
+4104406521,Delta Technical College - Lake,Target Account,Lone Campus,ICP 1,ICP 1,Allied Health,Private for-profit,870,0,Canvas,CVUE,"6530 Interstate Blvd. Horn Lake, MS",Mississippi
+4108780780,Denver College of Nursing - Denver (Main Campus),Target Account,Lone Campus,ICP 1,ICP 1,Allied Health,Private for-profit,"1,042",2,Canvas,CampusNexus,"1401 19th St Denver, CO",Colorado
+4104399072,Dorsey School of Business - Corporate Office,Target Account,Corporate Office,ICP 1,ICP 1,Career + Trade,Private for-profit,"2,100",9,Canvas,CampusNexus,18660 Ford Rd,Michigan
+4108671118,Douglas Education Center - Monessen,Target Account,Lone Campus,ICP 1,ICP 1,Beauty + Wellness,Private for-profit,207,,Canvas,CampusNexus; Anthology,"130 7th St Monessen, PA",Missouri
+4108679266,Florida National University - Main Campus,Target Account,Lone Campus,ICP 1,ICP 1,Allied Health,Private for-profit,"4,173",,Blackboard,CVUE; CampusNexus,"4425 West. Jose Regueiro (20th) Avenue Hialeah, FL",Florida
+4108753118,Galen College of Nursing - Corporate Office,Target Account,Corporate Office,ICP 1,ICP 1,Allied Health,Private for-profit,"10,382",16,Canvas,CampusNexus,3050 Terra Crossing Boulevard,Kentucky
+4104399080,Great Lakes Institute of Technology - Erie,Target Account,Lone Campus,ICP 1,ICP 1,Allied Health,Private for-profit,429,,Blackboard,CampusNexus,"5100 Peach Street Erie, PA",Pennsylvania
+4108718692,Herzing University - Corporate Office,Target Account,Corporate Office,ICP 1,ICP 1,Allied Health,Private for-profit,"12,077",10,Canvas; Moodle,CampusNexus; Campus Login; blackbaud,W140N8917 Lilly Road,Wisconsin
+4104270960,Hondros College of Nursing - Corporate,Target Account,Corporate Office,ICP 1,ICP 1,Allied Health,Private for-profit,"2,159",8,Sakai; D2L; Moodle; Other,CVUE; DiamondD; Other,"4140 Executive Parkway Westerville, OH",Ohio
+4108651588,InterCoast Colleges - Corporate Office,Target Account,Corporate Office,ICP 1,ICP 1,Allied Health,Private for-profit,"1,374",5,Canvas,Orbund; Conext,5253 Business Ctr. Dr. Ste B,California
+4108647922,Jean Madeline Aveda Institute - Queen Village,Prospect,Franchise,ICP 1,ICP 1,Beauty + Wellness,Private for-profit,376,0,PivotPoint,Genisis; FAME,"315A Bainbridge St - Philadelphia, Pennsylvania",Pennsylvania
+4108754007,MDT College of Health Sciences - Heights,Target Account,Lone Campus,ICP 1,ICP 1,Allied Health,Private for-profit,231,0,D2L; Brighthouse; College Office,Verity; Other,"325 Alpha Park Dr Highland Heights, OH",Ohio
+4108711759,Medical Training College - Baton Rouge,Target Account,Lone Campus,ICP 1,ICP 1,Allied Health,Private for-profit,233,,Canvas,CampusNexus,"10525 Plaza Americana Drive Baton Rouge, LA",Louisiana
+4108677860,Midwest Institute - Fenton,Target Account,Lone Campus,ICP 1,ICP 1,Allied Health,Private for-profit,297,0,Canvas,FAME,"2 Soccer Park Drive Fenton, MO",Missouri
+4104293927,Midwest Technical Institute - Corporate Office,Target Account,Corporate Office,ICP 1,ICP 1,Career + Trade,Private for-profit,"4,003",7,Canvas,CampusNexus,280 High Point Ln,Indiana
+4108722953,Moored Beauty School,Target Account,Lone Campus,ICP 1,ICP 1,Beauty + Wellness,Private for-profit,288,0,PivotPoint,Orbund,"2600 Lincoln Avenue Saint Joseph, MI",Michigan
+4104275419,National Career College - Panorama City,Target Account,Lone Campus,ICP 1,ICP 1,Allied Health,Private for-profit,293,,Canvas,CampusNexus,"14355 Roscoe Blvd Panorama City, CA",California
+4108753341,New York Automotive and Diesel Institute - Jamaica,Target Account,Lone Campus,ICP 1,ICP 1,Career + Trade,Private for-profit,350,,Canvas,Campus Cafe,"178-18 Liberty Avenue Jamaica, NY",New York
+4104293950,New York School for Medical and Dental Assistants - Long Island City,Target Account,Lone Campus,ICP 1,ICP 1,Allied Health,Private for-profit,381,,Canvas,Orbund,"33-10 Queens Blvd Long Island City, NY",New York
+4104399067,Northwest Career College - Las Vegas,Target Account,Lone Campus,ICP 1,ICP 1,Allied Health,Private for-profit,"1,723",0,Canvas,CampusNexus,"7398 Smoke Ranch Road Ste 100 Las Vegas, NV",Nevada
+4108780741,P&A Scholars Beauty School - Detroit,Target Account,Lone Campus,ICP 1,ICP 1,Beauty + Wellness,Private for-profit,250,,PivotPoint,FAME,"12001 Grandriver Avenue Detroit, MI",Michigan
+4104270959,PITC Institute - Wyncote,Target Account,Lone Campus,ICP 1,ICP 1,Allied Health,Private for-profit,347,,Moodle,CampusNexus,"827 Glenside Ave Wyncote, PA",Pennsylvania
+6935639098,Platt College - Corporate Office,Target Account,Corporate Office,ICP 1,ICP 1,Career + Trade,Private for-profit,"9,173",4,Canvas,CampusNexus,1551 South Douglass Road,CA
+6935650164,Platt College-STVT - San Antonio,Prospect,Franchise,ICP 1,ICP 1,Allied Health,Private for-profit,300,0,Moodle,CampusNexus,"1800 South Main Suite 500 McAllen, TX",Texas
+4108679006,Ross Education - Corporate Office,Target Account,Corporate Office,ICP 1,ICP 1,Allied Health,Private for-profit,"6,262",36,Canvas,CampusNexus,5177 West Main Street,Michigan
+4108648054,SAE Institute of Technology - Corporate Office,Target Account,Corporate Office,ICP 1,ICP 1,Career + Trade,Private for-profit,"1,903",6,Canvas,CampusNexus,215 Peachtree Street,Georgia
+4104275470,South University - Corporate Office,Target Account,Corporate Office,ICP 1,ICP 1,Allied Health,Private for-profit,"17,902",12,D2L,CampusNexus,709 Mall Boulevard,Georgia
+4108722911,Southwest Institute of Healing Arts - Tempe,Target Account,Lone Campus,ICP 1,ICP 1,Allied Health,Private for-profit,846,0,Canvas,Orbund,"1538 E. Southern Ave Tempe, AZ",Arizona
+4108711676,Spartan College of Aeronautics and Technology - Corporate Office,Target Account,Corporate Office,ICP 1,ICP 1,Career + Trade,Private for-profit,"2,191",4,Canvas,CampusNexus,8820 East Pine Street,Oklahoma
+4104399056,St Paul's School of Nursing - Corporate Office,Target Account,Corporate Office,ICP 1,ICP 1,Allied Health,Private for-profit,"1,707",2,Canvas,CampusNexus,97-77 Queens Blvd,New York
+4108671168,Summit College - San Bernardino,Target Account,Lone Campus,ICP 1,ICP 1,Allied Health,Private for-profit,"1,036",,Canvas,Orbund,"804 E Brier Dr San Bernardino, CA",California
+6936279901,Sunstate Academy - Corporate Office,Target Account,Corporate Office,ICP 1,ICP 1,Career + Trade,Private for-profit,600,2,PivotPoint,FAME,2040 Colonial Boulevard,Florida
+6936344887,The Beauty Institute - Corporate Office,Target Account,Corporate Office,ICP 1,ICP 1,Beauty + Wellness,Private for-profit,533,5,PivotPoint,FAME,6 Industrial Way West,California
+4104270915,Tidewater Tech - Trades,Target Account,Lone Campus,ICP 1,ICP 1,Career + Trade,Private for-profit,436,,Other; Canvas,CampusNexus,"4535 E. Princess Anne Rd. Norfolk, VA",Virginia
+6935766903,Toni & Guy Hairdressing Academy - Colorado Springs,Prospect,Franchise,ICP 1,ICP 1,Beauty + Wellness,Private for-profit,161,0,PivotPoint,FAME,"5125 N Academy Blvd - Colorado Springs, CO 80918",CO
+7876081959,Toni & Guy Hairdressing Academy - Erie,Prospect,Franchise,ICP 1,ICP 1,Beauty + Wellness,Private for-profit,160,0,PivotPoint,Campus Cafe,"930 Peach St - Erie, PA 16501",PA
+7529895032,Toni & Guy Hairdressing Academy - Kellar,Prospect,Franchise,ICP 1,ICP 1,Beauty + Wellness,Private for-profit,150,0,PivotPoint,RGM,"1185 S Main St - Keller, TX 76248",TX
+6936253214,Toni & Guy Hairdressing Academy - Worcester,Prospect,Franchise,ICP 1,ICP 1,Beauty + Wellness,Private for-profit,223,2,PivotPoint,FAME,"6 Park Ave - Worcester, MA 01605",MA
+8054474921,Toni&Guy Hairdressing Academy at Penn Commercial,Target Account,Lone Campus,ICP 1,ICP 1,Beauty + Wellness,Private for-profit,238,0,PivotPoint; Toni &Guy,FAME; RGM,242 Oak Spring Road,PA
+6936253212,Tricoci - Bridgeview,Prospect,Franchise,ICP 1,ICP 1,Beauty + Wellness,Private for-profit,365,0,PivotPoint,FAME,"7350 W 87th St Bridgeview, IL",Illinois
+6936300661,Tricoci - Chicago NW (Norwood Park),Prospect,Franchise,ICP 1,ICP 1,Beauty + Wellness,Private for-profit,215,0,PivotPoint,FAME,"5321 N Harlem Ave Chicago, IL",Illinois
+6936300658,Tricoci - Highland,Prospect,Franchise,ICP 1,ICP 1,Beauty + Wellness,Private for-profit,296,0,PivotPoint,FAME,"2549 Highway Ave Highland, IN",Indiana
+6936312452,Tricoci - Indianapolis NE (Fishers),Prospect,Franchise,ICP 1,ICP 1,Beauty + Wellness,Private for-profit,283,0,PivotPoint,FAME,"9725 Crosspoint Commons Indianapolis, IN",Indiana
+6936300662,Tricoci - Libertyville,Prospect,Franchise,ICP 1,ICP 1,Beauty + Wellness,Private for-profit,159,0,PivotPoint,FAME,"751 E Park Ave Libertyville, IL",Illinois
+6936328529,Tricoci - Rockford,Prospect,Franchise,ICP 1,ICP 1,Beauty + Wellness,Private for-profit,210,0,PivotPoint,FAME,"5485 E State St Rockford, IL",Illinois
+6935761544,Tricoci - Urbana,Prospect,Franchise,ICP 1,ICP 1,Beauty + Wellness,Private for-profit,153,0,PivotPoint,FAME,"202 East University Street Suite H I & J Urbana, IL",Illinois
+4104275425,Valley College - Corporate Office,Target Account,Corporate Office,ICP 1,ICP 1,Allied Health,Private for-profit,"2,316",5,Moodle,CVUE; Conext,120 NEW RIVER TOWN CTR,West Virginia
+4108647951,Vanguard College of Cosmetology - Corporate Office,Target Account,Corporate Office,ICP 1,ICP 1,Beauty + Wellness,Private for-profit,545,3,PivotPoint,FAME,8000 U.S. 64,Tennessee
+4108795116,"West Coast Ultrasound Institute, School of Imaging - Corporate",Target Account,Lone Campus,ICP 1,ICP 1,Allied Health,Private for-profit,809,,Canvas,CampusNexus; Verity,"3580 Wilshire Blvd. 4th Floor Los Angeles, CA",California
+4108748892,West Coast University - Corporate Office,Target Account,Corporate Office,ICP 1,ICP 1,Allied Health,Private for-profit,"15,953",6,Blackboard; Canvas,CampusNexus; Anthology,151 Innovation Drive,California
+4108753834,Ambria College of Nursing - Hoffman Estates,Target Account,Lone Campus,ICP 2,Wrong School Type,Allied Health,Community College,229,,Canvas,Campus Cafe,"5210 Trillium Blvd Hoffman Estates, IL",Illinois
+4108651649,Arizona Medical Training Institute,Target Account,Lone Campus,ICP 2,Wrong School Type,Allied Health,Not-for-profit,"2,100",0,Moodle,Orbund,1530 North Country Club Drive,Arizona
+4108739446,Beckfield College,Target Account,Lone Campus,ICP 2,Wrong School Type,Career + Trade,Community College,748,0,Canvas,CVUE,16 Spiral Drive,Florida
+4108677707,Felbry College School of Nursing - Columbus,Target Account,Lone Campus,ICP 2,Wrong School Type,Allied Health,Community College,288,,Canvas,Orbund,"6055 Cleveland Avenue Columbus, OH",Ohio
+4104338415,Gwinnett Technical College - Lawrenceville,Target Account,Lone Campus,ICP 2,Wrong School Type,Career + Trade,Public,"8,004",0,Blackboard,CampusNexus,"5150 Sugarloaf Parkway Lawrenceville, GA",Georgia
+4104293948,Innovate Salon Academy - Corporate Office,Target Account,Corporate Office,ICP 2,Wrong School Type,Beauty + Wellness,Not-for-profit,426,2,PivotPoint,FAME,25 Scotch Road,New Jersey
+4108675722,Joyce University - Corporate Office,Target Account,Corporate Office,ICP 2,Wrong School Type,Allied Health,Not-for-profit,"1,773",2,Canvas,CampusNexus,12257 Business Park Drive,Utah
+4108718581,Keiser University - Corporate Office,Target Account,Corporate Office,ICP 2,Wrong School Type,Allied Health,Not-for-profit,"20,330",24,Blackboard,CampusNexus,"1500 NW 49th St. Fort Lauderdale, FL",Florida
+4108795268,National University of Health Sciences - Lombard,Target Account,Lone Campus,ICP 2,Wrong School Type,Allied Health,Not-for-profit,529,,Moodle,CampusNexus,"200 E Roosevelt Rd Lombard, IL",Illinois
+4108780686,NUC University - Bayamon,Target Account,Lone Campus,ICP 2,Wrong School Type,Allied Health,Community College,"25,999",,Canvas,CampusNexus; Anthology,"Carr. #2 Edificio National College Plaza Bayamon, PR",Puerto Rico
+4104275525,Pennsylvania Institute of Technology - Media,Target Account,Lone Campus,ICP 2,Wrong School Type,Allied Health,Not-for-profit,454,,Canvas,CampusNexus,"800 Manchester Ave Media, PA",Pennsylvania
+6935639086,Platt College-STVT - McAllen,Prospect,Franchise,ICP 2,Wrong School Type,Allied Health,Community College,"2,506",0,Moodle,CampusNexus,"5000 Market Street Wilmington, NC",Texas
+4108806721,Remington College - Corporate Office,Target Account,Corporate Office,ICP 2,Wrong School Type,Allied Health,Not-for-profit,"7,662",15,Canvas,CampusNexus,4520 South Sherwood Forrest Boulevard,Louisiana
+4108675506,Post University,Target Account,Lone Campus,ICP 2,Wrong Segment,University,Private for-profit,"13,844",0,Blackboard,CampusNexus,800 Country Club Rd,Connecticut
+6936253197,St Louis College of Health Careers - Corporate Office,Target Account,Corporate Office,ICP 2,Wrong School Type,Allied Health,Not-for-profit,"1,044",3,Moodle,CampusNexus,909 S Taylor Ave,Missouri
+4104399078,Stautzenberger College - Corporate Office,Target Account,Corporate Office,ICP 2,Wrong School Type,Allied Health,Not-for-profit,"2,581",3,Moodle,CampusNexus,8001 Katherine Boulevard,California
+4104344578,Sumner College - Portland,Target Account,Lone Campus,ICP 2,Wrong School Type,Allied Health,Community College,464,0,Canvas,Campus Cafe,"8338 NE Alderwood Road Ste 100 Portland, OR",Oregon
+4108651527,Academy of Art University - San Francisco,Target Account,Lone Campus,ICP 3,Bad Tech Stack,Career + Trade,Private for-profit,"8,928",,D2L; Other,PeopleSoft,"79 New Montgomery San Francisco, CA",California
+4108718631,Access Careers - Corporate Office,Target Account,Corporate Office,ICP 3,Bad Tech Stack,Allied Health,Not-for-profit,530,2,,Genisis; STARS,474 Fulton Avenue,New York
+4108711583,Ace Institute of Technology - New York,Target Account,Lone Campus,ICP 3,Bad Tech Stack,Career + Trade,Private for-profit,204,,Canvas; Microsoft Office 365,None,"312 West 36 Street 2nd Floor New York, NY",New York
+4108753153,Advanced Career Institute - Visalia,Target Account,Lone Campus,ICP 3,Bad Tech Stack,Career + Trade,Private for-profit,670,4,Moodle,DiamondD,"1728 North Kelsey Street Visalia, CA",California
+4108748889,Advanced Technology Institute - Virginia Beach,Target Account,Lone Campus,ICP 3,Bad Tech Stack,Career + Trade,Private for-profit,461,0,Microsoft,None,"5700 Southern Blvd Ste 100 Virginia Beach, VA",Virginia
+4108744141,Adventist University of Health Sciences,Target Account,Lone Campus,ICP 3,Bad Tech Stack,Allied Health,Not-for-profit,"1,705",,Canvas,SONIS,950 E Harvard Ave #b80,Florida
+4108753365,"Airstreams Renewables, Inc.",Target Account,Lone Campus,ICP 3,Unknown Tech Stack,Career + Trade,Private for-profit,382,,,,785 Tucker Road,California
+4104293994,Albany College of Pharmacy and Health Sciences - Albany,Target Account,Lone Campus,ICP 3,Bad Tech Stack,Allied Health,Not-for-profit,"1,118",,Canvas,CAMS,"106 New Scotland Avenue Albany, NY",New York
+4108806718,All-State Career School - Corporate Office,Target Account,Lone Campus,ICP 3,Bad Tech Stack,Career + Trade,Private for-profit,834,4,Canvas,MyCampusLink,2200 Broening Highway,Pennsylvania
+4108664395,Altierus Career College - Corporate Office,Target Account,Corporate Office,ICP 3,Bad Tech Stack,Allied Health,Private for-profit,"1,639",4,Canvas,Homegrown SIS,9700 Bissonnet St-Ste 1400,Texas
+4108651560,American Institute of Medical Sciences & Education - Piscataway,Target Account,Lone Campus,ICP 3,Bad Tech Stack,Allied Health,Private for-profit,476,,D2L; BrightSpace by D2L,STARS,"4500 New Brunswick Ave Piscataway, NJ",New Jersey
+4108711572,American Medical Academy - Miami,Target Account,Lone Campus,ICP 3,Bad Tech Stack,Allied Health,,527,,Canvas,Fizdap,"12215 SW 112 Street Miami, FL",Florida
+4132090925,American Training Center,Target Account,Lone Campus,ICP 3,Bad Tech Stack,Allied Health,Private for-profit,372,,None,None,1105 Linden Street,New Jersey
+4108677658,American University of Health Sciences - Hill,Target Account,Lone Campus,ICP 3,Unknown SIS,Allied Health,Private for-profit,408,,Moodle,,"1600 East Hill St Signal Hill, CA",California
+4104332180,American Winds Aviation,Target Account,Lone Campus,ICP 3,Bad Tech Stack,Career + Trade,Private for-profit,"1,000",,Microsoft Teams,,1461 Exeter Road,Ohio
+4108658013,American Winds College of Aeronautics,Target Account,Lone Campus,ICP 3,Unknown Tech Stack,Career + Trade,Private for-profit,"1,000",,,,1461 Exeter Road,Ohio
+4108651781,AMG School of Licensed Practical Nursing - Brooklyn,Target Account,Lone Campus,ICP 3,Bad Tech Stack,Allied Health,Private for-profit,258,,D2L; bright space,Homegrown SIS,"147 Prince Street Brooklyn, NY",New York
+5173026366,Andrew College - Cuthbert,Target Account,Lone Campus,ICP 3,Bad Tech Stack,Allied Health,Not-for-profit,301,0,Canvas,Empower,"501College St Cuthbert, GA",Georgia
+4108754110,Angeles College,Target Account,Lone Campus,ICP 3,Bad Tech Stack,Allied Health,Community College,303,1,Canvas,DiamondD,"3440 Wilshire Blvd Ste 310 Los Angeles, CA",California
+6208624769,Apex Technical School - South Long Island City,Target Account,Lone Campus,ICP 3,Unknown LMS,Career + Trade,Private for-profit,"1,140",0,,CampusNexus,"24-02 Queens Plaza South Long Island City, NY",New York
+6946600451,Apollo Career Center - Lima,Target Account,Lone Campus,ICP 3,Bad Tech Stack,Career + Trade,Public,551,0,Moodle,Achademix,3325 Shawnee Rd,Ohio
+4108780766,Arizona Automotive Institute Arizona,Target Account,Lone Campus,ICP 3,Bad Tech Stack,Career + Trade,Private for-profit,368,0,Microsoft,Access DB,"6829 N 46th Ave Glendale, AZ",Arizona
+4104293905,Arlington Career Institute - Grand Prairie,Target Account,Lone Campus,ICP 3,Bad Tech Stack,Allied Health,Private for-profit,344,0,Schoology,DiamondD,"901 Ave K Grand Prairie, TX",Texas
+4104293915,Asher College,Target Account,Lone Campus,ICP 3,Unknown Tech Stack,Career + Trade,Private for-profit,748,,,,1215 Howe Ave Suite 101,Texas
+6188754569,Asher College - Sacramento,Target Account,Lone Campus,ICP 3,Unknown Tech Stack,Career + Trade,Private for-profit,748,0,,,"1215 Howe Ave Suite 101 Sacramento, CA",California
+4104332052,Associated Technical College,Target Account,Lone Campus,ICP 3,Unknown Tech Stack,Allied Health,Private for-profit,335,,,,200 W Dixie Ave,California
+6919973923,Associated Technical College - Corporate Office,Target Account,Corporate Office,ICP 3,Unknown Tech Stack,Allied Health,Private for-profit,436,2,,,,California
+6946653031,ATA Career Education - Spring Hill,Target Account,Lone Campus,ICP 3,Bad Tech Stack,Allied Health,Private for-profit,230,0,D2L,Homegrown SIS,"7351 Spring Hill Drive  Suite 11 Spring Hill, FL",Florida
+6921216168,ATA College - Corporate Office,Target Account,Corporate Office,ICP 3,Bad Tech Stack,Allied Health,Private for-profit,866,4,D2L,Compass,10180 Linn Station Road,Kentucky
+4108648210,Athena Career Academy - Toledo,Target Account,Lone Campus,ICP 3,Bad Tech Stack,Allied Health,Private for-profit,338,0,,STARS,"5203 Airport Hwy Toledo, OH",Ohio
+4108718573,Atlanta School of Massage - Atlanta,Target Account,Lone Campus,ICP 3,Bad Tech Stack,Beauty + Wellness,Private for-profit,396,0,Milady,DiamondD,"2 Dunwoody Park South Atlanta, GA",Georgia
+4108671414,Atlanta Technical College - Atlanta,Target Account,Lone Campus,ICP 3,Bad Tech Stack,Career + Trade,Public,"3,030",,Blackboard,Banner (Ellucian),"1560 Metropolitan Pkwy SW Atlanta, GA",Georgia
+4108744207,Atlantis University - Miami,Target Account,Lone Campus,ICP 3,Bad Tech Stack,Allied Health,Private for-profit,550,0,Moodle,Homegrown SIS,"1442 Biscayne Boulevard Miami, FL",Florida
+4104293943,Aultman College of Nursing and Health Sciences - Canton,Target Account,Lone Campus,ICP 3,Bad Tech Stack,Allied Health,Not-for-profit,355,0,Home grown,Homegrown SIS,"2600 6th St SW Canton, OH",Ohio
+6919973921,Aveda Arts - Covington,Prospect,Franchise,ICP 3,Bad Tech Stack,Beauty + Wellness,Private for-profit,"2,337",0,PivotPoint,Salesforce,"1355 Polders Lane - Covington, Louisiana",Louisiana
+6920239665,Aveda Arts - Lafayette,Prospect,Franchise,ICP 3,Bad Tech Stack,Beauty + Wellness,Private for-profit,153,0,PivotPoint,Salesforce,"2922 Johnston Street - Lafayette, Louisiana",Louisiana
+4108739579,Aveda Arts - Minneapolis,Prospect,Franchise,ICP 3,Bad Tech Stack,Beauty + Wellness,Private for-profit,554,0,PivotPoint,Salesforce,"400 Central Avenue SE - Minneapolis, Minnesota",Minnesota
+6920225045,Aveda Arts - New York,Prospect,Franchise,ICP 3,Bad Tech Stack,Beauty + Wellness,Private for-profit,325,0,PivotPoint,Salesforce,"233 Spring Street - New York, New York",New York
+6920194723,Aveda Institute - Denver,Prospect,Franchise,ICP 3,Unknown SIS,Beauty + Wellness,Private for-profit,403,0,PivotPoint,,"700 16th Street - Denver, Colorado",Colorado
+7253595455,Aveda Institute - Jacksonville,Prospect,Franchise,ICP 3,Unknown SIS,Beauty + Wellness,Private for-profit,506,0,PivotPoint,,"Mandarin Landing, 10601 San Jose Blvd - Jacksonville, Florida",Florida
+6920214935,Aveda Institute - San Antonio,Prospect,Franchise,ICP 3,Unknown SIS,Beauty + Wellness,Private for-profit,362,0,PivotPoint,,"21003 Encino Commons - San Antonio, Texas",Texas
+4108675701,Aveda Institute - South Florida,Prospect,Franchise,ICP 3,Unknown SIS,Beauty + Wellness,Private for-profit,506,0,PivotPoint,,"4186 South University Drive - Davie, Florida",Florida
+6920190059,Aveda Institute - Tallahassee,Prospect,Franchise,ICP 3,Unknown SIS,Beauty + Wellness,Private for-profit,633,0,PivotPoint,,"2020 West Pensacola St. - Tallahassee, Florida",Florida
+6920228900,Aveda Institute - Tucson,Prospect,Franchise,ICP 3,Unknown SIS,Beauty + Wellness,Private for-profit,215,0,PivotPoint,,"145 S. 6th Ave - Tucson, Arizona",Arizona
+4712943996,Aveda Institute Denver/Provo/Tucson/Phoenix,Prospect,Franchise,ICP 3,Bad Tech Stack,Beauty + Wellness,Private for-profit,405,0,PivotPoint,SMART,700 16th Street,Colorado
+6148271182,Aveda Institutes South,Prospect,Franchise,ICP 3,Unknown SIS,Beauty + Wellness,Private for-profit,506,0,PivotPoint,,495 North Semoran Boulevard,Florida
+4108675458,Azure College,Target Account,Lone Campus,ICP 3,Bad Tech Stack,Allied Health,Private for-profit,236,,Canvas,Salesforce,550 West Cypress Creek Road,Florida
+5173479940,Baker College,Target Account,Lone Campus,ICP 3,Bad Tech Stack,Allied Health,Not-for-profit,"6,028",0,Canvas,Jenzabar,"1020 S Washington St Owosso, MI",Michigan
+6946535025,Baldwin Park Adult & Community Education - Baldwin Park,Target Account,Lone Campus,ICP 3,Wrong School Type,Career + Trade,Community College,347,0,,,"4640 N. Maine Ave Baldwin Park, CA",California
+4108780711,Baptist Health College,Target Account,Lone Campus,ICP 3,Bad Tech Stack,Allied Health,Not-for-profit,616,,,SONIS,11900 COLONEL GLENN RD STE 1000,Arkansas
+4108710580,Beal College,Target Account,Lone Campus,ICP 3,Unknown Tech Stack,Career + Trade,Private for-profit,396,,,,99 Farm Road,Maine
+6945771134,Beal University - Bangor,Target Account,Lone Campus,ICP 3,Bad Tech Stack,Allied Health,Community College,493,0,Canvas,Homegrown SIS,"99 Farm Road Bangor, ME",Maine
+4108647948,Bel - Rea Institute of Animal Technology,Target Account,Lone Campus,ICP 3,Bad Tech Stack,Allied Health,Private for-profit,306,0,Canvas,Populi,"1681 S Dayton St Denver, CO",Colorado
+6946624075,Bellingham Technical College - Bellingham,Target Account,Lone Campus,ICP 3,Bad Tech Stack,Allied Health,Community College,"1,848",0,Canvas,Homegrown SIS,"3028 Lindbergh Ave Bellingham, WA",Washington
+5548354397,Benjamin Franklin Institute of Technology - Boston,Target Account,Lone Campus,ICP 3,Wrong School Type,Career + Trade,Not-for-profit,463,0,Canvas,,"41 Berkeley St Boston, MA",Massachusetts
+4104270929,Berkeley College - Corporate Office,Target Account,Corporate Office,ICP 3,Bad Tech Stack,Career + Trade,Private for-profit,"8,605",2,Canvas,Peoplesoft,44 Rifle Camp Road,New York
+4108671153,Blake Austin College - Vacaville,Target Account,Lone Campus,ICP 3,Bad Tech Stack,Allied Health,Private for-profit,312,,,VIAS,"611 Orange Dr Ste K Vacaville, CA",California
+4108711587,Broadview College - West Jordan,Target Account,Lone Campus,ICP 3,Bad Tech Stack,Career + Trade,Community College,268,0,Blackboard,STARS; Student Supportal,"1902 W 7800 S West Jordan, UT",Minnesota
+6946593599,Butler Technology and Career Development Schools - Monroe,Target Account,Lone Campus,ICP 3,Bad Tech Stack,Allied Health,Public,384,0,Schoology,Progressbook,"101 Jerry Couch Boulevard Monroe, OH",Ohio
+4108739522,Cabarrus College of Health Sciences - Concord,Target Account,Lone Campus,ICP 3,Bad Tech Stack,Allied Health,Not-for-profit,526,,Canvas,SONIS,"401 Medical Park Drive Concord, NC",North Carolina
+4108647921,California College San Diego - Corporate Office,Target Account,Corporate Office,ICP 3,Wrong School Type,Career + Trade,Not-for-profit,"1,303",3,,,6602 Convoy Court Ste 100,California
+4108710612,California Institute of Arts & Technology - San Diego,Target Account,Lone Campus,ICP 3,Unknown SIS,Career + Trade,Private for-profit,332,,Canvas,,"2820 Camino Del Rio South Suite 100 San Diego, CA",California
+6946567483,Cape Girardeau Career and Technology Center - Girardeau,Target Account,Lone Campus,ICP 3,Bad Tech Stack,Allied Health,Public,275,0,Canvas,Infinite Campus,"1080 S. Silver Springs Rd. Cape Girardeau, MO",Missouri
+4108722913,Capri College - Corporate Office,Target Account,Corporate Office,ICP 3,Bad Tech Stack,Beauty + Wellness,Private for-profit,610,3,PivotPoint,Prestige; Other; Prestige,395 Main Street,Iowa
+6946646140,Career and Technology Education Centers of Licking County - Newark,Target Account,Lone Campus,ICP 3,Bad Tech Stack,Allied Health,Public,234,0,Moodle,Achademix,"150 Price Rd Newark, OH",Ohio
+4104332060,Career Care Institute - Lancaster,Target Account,Lone Campus,ICP 3,Bad Tech Stack,Allied Health,Private for-profit,549,,Canvas,DiamondD,"43770 15th Street West Ste 115 Lancaster, CA",California
+4108748841,Career College of Northern Nevada - Sparks,Target Account,Lone Campus,ICP 3,Bad Tech Stack,Career + Trade,Private for-profit,250,0,Moodle,DiamondD,"1421 Pullman Dr. Sparks, NV",Nevada
+4104293946,Career Technical Institute - Washington,Target Account,Lone Campus,ICP 3,Unknown Tech Stack,Career + Trade,Private for-profit,493,,,,"1101 Vermont Avenue N.W suite L002 Washington, DC",Washington DC
+6946593583,Carolinas College of Health Sciences - Charlotte,Target Account,Lone Campus,ICP 3,Bad Tech Stack,Allied Health,Community College,514,0,Canvas,SONIS,"2110 Water Ridge Parkway Charlotte, NC",North Carolina
+4104335979,Casal Institute of Nevada - Las Vegas,Prospect,Franchise,ICP 3,Bad Tech Stack,Beauty + Wellness,Private for-profit,268,,PivotPoint,SMART,"4856 S Eastern Ave Las Vegas, NV",Nevada
+4108711596,CBD College - Australia,Target Account,Lone Campus,ICP 3,Wrong School Type,Career + Trade,Not-for-profit,788,,,,3699 Wilshire Blvd.,California
+4108744133,CBD College - Los Angeles,Target Account,Lone Campus,ICP 3,Bad Tech Stack,Allied Health,Not-for-profit,974,,Moodle,Homegrown SIS,"3699 Wilshire Blvd. Fourth Floor Los Angeles, CA",California
+4104270926,CCI Training Center - Arlington,Target Account,Lone Campus,ICP 3,Bad Tech Stack,Allied Health,Private for-profit,200,,Moodle,STARS; SMART,"770 E. Road To Six Flags # 140 Arlington, TX",Texas
+4108677749,Center for Allied Health Education - Brooklyn,Target Account,Lone Campus,ICP 3,Bad Tech Stack,Allied Health,Private for-profit,520,,Canvas,Trajecsys,"1401 Kings Hwy Brooklyn, NY",New York
+4108711616,Center for Ultrasound Research & Education - Plains,Target Account,Lone Campus,ICP 3,Bad Tech Stack,Allied Health,Private for-profit,280,,None,STARS,"333 Westchester Avenue Suite 101 West White Plains, NY",New York
+6625235758,Centereducation,Target Account,Lone Campus,ICP 3,Unknown Tech Stack,Allied Health,Private for-profit,372,0,,,,New York
+4104293922,Centra College - Lynchburg,Target Account,Lone Campus,ICP 3,Bad Tech Stack,Allied Health,Not-for-profit,314,,Moodle,Three Rivers Inc,"905 Lakeside Dr. Suite A Lynchburg, VA",Virginia
+4104344500,Century College - Corporate Office,Target Account,Corporate Office,ICP 3,Bad Tech Stack,Allied Health,Private for-profit,624,2,D2L,Homegrown SIS,1316 Ponce De Leon Avenue,Minnesota
+4108710617,CET - Corporate Office,Target Account,Corporate Office,ICP 3,Unknown SIS,Allied Health,Private for-profit,"2,492",12,Canvas,,701 Vine Street,California
+4104275492,Chamberlain University - Corporate Office,Target Account,Corporate Office,ICP 3,Bad Tech Stack,Allied Health,Not-for-profit,"51,976",15,Canvas,Homegrown SIS,"500 W. Monroe Street Suite 28 Chicago, IL",Illinois
+4104294014,Chancellor Institute,Target Account,Lone Campus,ICP 3,Bad Tech Stack,Allied Health,Private for-profit,770,0,NEO,STARS,5648 W Atlantic Blvd,Florida
+4600115764,Cinta Aveda,Prospect,Franchise,ICP 3,Unknown SIS,Beauty + Wellness,Private for-profit,268,0,PivotPoint,,305 Kearny Street,California
+6946527150,Clovis Adult Education - Clovis,Target Account,Lone Campus,ICP 3,Wrong School Type,Allied Health,Public,507,0,,,"1452 David E Cook Way Clovis, CA",California
+4104338550,College Herzing de Montreal,Target Account,Lone Campus,ICP 3,Bad Tech Stack,Career + Trade,Private for-profit,"1,506",0,Canvas,Compass,1700 PORTAGE AVE,Outside USA
+4104294012,College of Health Careers,Target Account,Lone Campus,ICP 3,Bad Tech Stack,Allied Health,Private for-profit,328,,Canvas,Populi,950 E Main St,Arizona
+4104399236,Colorado Technical University - Colorado Springs,Target Account,Lone Campus,ICP 3,Bad Tech Stack,Career + Trade,Private for-profit,"28,244",,Moodle; Other,Intellipath,"4435 N Chestnut Street Colorado Springs, CO",Colorado
+4104332046,Community Care College - Tulsa,Target Account,Lone Campus,ICP 3,Bad Tech Stack,Allied Health,Not-for-profit,658,0,Moodle; Other,Homegrown SIS; Transcript,"4242 South Sheridan Tulsa, OK",Oklahoma
+9439340835,Community HigherEd,Target Account,Corporate Office,ICP 3,Bad Tech Stack,Community College,Community College,"1,300",3,Canvas,Homegrown SIS,3131 South Sheridan Road,OK
+4108753821,Contra Costa Medical Career College - Antioch,Target Account,Lone Campus,ICP 3,Bad Tech Stack,Allied Health,Private for-profit,789,0,Canvas,DiamondD,"4041 Lone Tree Way Antioch, CA",California
+4108647965,Dawn Career Institute LLC - Newark,Target Account,Lone Campus,ICP 3,Bad Tech Stack,Allied Health,Private for-profit,224,0,Moodle,STARS,"252 Chapman Road Suite 100 Newark, DE",Delaware
+4108753848,Dayton School of Medical Massage - Dayton,Target Account,Lone Campus,ICP 3,Bad Tech Stack,Allied Health,Private for-profit,286,,None,STARS,"4457 Far Hills Ave Dayton, OH",Ohio
+4108718667,Daytona College - Ormond Beach,Target Account,Lone Campus,ICP 3,Bad Tech Stack,Allied Health,Community College,236,0,Blackboard; Jupiter,DiamondD,"425 South Nova Road Ormond Beach, FL",Florida
+4108739412,Delta College,Target Account,Lone Campus,ICP 3,Unknown SIS,Allied Health,Private for-profit,"1,155",0,D2L,,"1961 Delta Road University Center, MI",Michigan
+4104406654,Denmark Technical College - Denmark,Target Account,Lone Campus,ICP 3,Bad Tech Stack,Beauty + Wellness,Public,491,0,D2L,Blackbaud,"1126 Solomon Blatt Blvd Denmark, SC",South Carolina
+4108780740,Diesel Driving Academy,Target Account,Lone Campus,ICP 3,Unknown Tech Stack,Career + Trade,Private for-profit,366,,,,IVERE DR,Louisiana
+6946527284,Downey Adult School - Downey,Target Account,Lone Campus,ICP 3,Bad Tech Stack,Allied Health,Private for-profit,"1,130",0,Blackboard,ASAP,"12340 Woodruff Ave Downey, CA",California
+4108679298,East Valley Institute of Technology - Mesa,Target Account,Lone Campus,ICP 3,Bad Tech Stack,Allied Health,Public,275,0,Canvas,Power School,"1601 W Main St Mesa, AZ",Arizona
+4108744333,Eastern College of Health Vocations - Corporate Office,Target Account,Corporate Office,ICP 3,Bad Tech Stack,Allied Health,Not-for-profit,433,2,D2L; Brightspace,Targettx,200 South University Avenue,Louisiana
+4108677678,Eastern International College - Corporate Office,Target Account,Corporate Office,ICP 3,Bad Tech Stack,Allied Health,Private for-profit,834,2,Canvas,DiamondD,251 Washington Ave,New Jersey
+6946552083,Eastern Oklahoma County Technology Center - Choctaw,Target Account,Lone Campus,ICP 3,Bad Tech Stack,Allied Health,Public,582,0,Canvas,Lumatek,"4601 N Choctaw Rd Choctaw, OK",Oklahoma
+6931061618,Eastern Suffolk BOCES - Corporate Office,Target Account,Corporate Office,ICP 3,Bad Tech Stack,Allied Health,Public,386,3,Blackboard,Homegrown SIS,201 Sunrise Hwy,New York
+4108753864,Eastwick College - Corporate Office,Target Account,Corporate Office,ICP 3,Bad Tech Stack,Allied Health,Private for-profit,"2,630",4,Canvas,DiamondD,250 Moore Street,New Jersey
+6946574600,EHOVE Career Center - Milan,Target Account,Lone Campus,ICP 3,Bad Tech Stack,Allied Health,Private for-profit,276,0,Google Classroom/Schoololgy,Homegrown SIS,"316 W Mason Rd Milan, OH",Ohio
+4108651532,Elaine Sterling Institute - Atlanta,Target Account,Lone Campus,ICP 3,Bad Tech Stack,Beauty + Wellness,Private for-profit,617,,Milady,STARS,"3393 Peachtree RD Ne Atlanta, GA",Georgia
+4104344562,Electrical Training Center - Copiague,Target Account,Lone Campus,ICP 3,Bad Tech Stack,Career + Trade,Private for-profit,207,0,,DiamondD; Alliance,"65 Elm St. Copiague, NY",New York
+4104270921,Emperor's College of Traditional Oriental Medicine - Santa Monica,Target Account,Lone Campus,ICP 3,Bad Tech Stack,Allied Health,Private for-profit,228,,,Populi,"1807 Wilshire Blvd Ste #200 Santa Monica, CA",California
+4108710844,Empire Beauty School - Hooksett,Prospect,Franchise,ICP 3,Bad Tech Stack,Beauty + Wellness,Private for-profit,205,0,Milady; CLIC ( Proprietary),,"1328 Hooksett Rd Hooksett, NH",New Hampshire
+6931069003,"Empire Beauty School - Portland, Maine",Prospect,Franchise,ICP 3,Unknown Tech Stack,Beauty + Wellness,Private for-profit,165,0,,,"319 Marginal Way Portland, ME",Maine
+6930906481,Empire Beauty School - Somersworth,Prospect,Franchise,ICP 3,Unknown Tech Stack,Beauty + Wellness,Private for-profit,158,0,,,"456 High Street Somersworth, NH",New Hampshire
+6931061622,Empire Beauty Schools - Atlanta-Morrow,Target Account,Franchise,ICP 3,Unknown Tech Stack,Beauty + Wellness,Private for-profit,170,0,,,"1958 Mt Zion Rd Ste 205 Morrow, GA",Georgia
+6931345019,Empire Beauty Schools - New York City-Manhattan,Prospect,Franchise,ICP 3,Unknown Tech Stack,Beauty + Wellness,Private for-profit,307,0,,,"22 W 34th St New York, NY",New York
+6931041320,Empire Beauty Schools - Philadelphia-Center City,Prospect,Franchise,ICP 3,Unknown Tech Stack,Beauty + Wellness,Private for-profit,204,0,,,"1522 Chestnut St Philadelphia, PA",Pennsylvania
+6931027590,"Empire Beauty Schools - Portage, Michigan",Prospect,Franchise,ICP 3,Unknown Tech Stack,Beauty + Wellness,Private for-profit,259,0,,,"3583 Alpine Ave NW Grand Rapids, MI",Michigan
+6930889539,Empire Beauty Schools - Stone Park-Chicago,Prospect,Franchise,ICP 3,Bad Tech Stack,Beauty + Wellness,Private for-profit,154,0,Clic,Proprietary,"3106 West North Avenue Stone Park, IL",Illinois
+4104399065,Empire College - Santa Rosa,Target Account,Lone Campus,ICP 3,Unknown SIS,Allied Health,Private for-profit,241,1,Canvas,,"3035 Cleveland Ave Santa Rosa, CA",California
+4104275426,Erie Institute of Technology Inc - Erie,Target Account,Lone Campus,ICP 3,Unknown LMS,Career + Trade,Private for-profit,282,,,CampusNexus,"940 Millcreek Mall Erie, PA",Pennsylvania
+4104293902,Erwin Technical College - Tampa,Target Account,Lone Campus,ICP 3,Bad Tech Stack,Allied Health,Public,653,,Moodle; Canvas,PeopleSoft,"2010 E. Hillsborough Avenue Tampa, FL",Florida
+4108739497,ETI,Target Account,Lone Campus,ICP 3,Bad Tech Stack,Career + Trade,Private for-profit,298,0,SAP Netweaver,,500 Joliet Road,Illinois
+4104332203,First Coast Technical College - Saint Augustine,Target Account,Lone Campus,ICP 3,Bad Tech Stack,Allied Health,Public,360,,,Focus,"2980 Collins Ave Saint Augustine, FL",Florida
+4108664392,Five Branches University - Santa Cruz,Target Account,Lone Campus,ICP 3,Unknown SIS,Allied Health,Private for-profit,349,,Moodle,,"200 7th Avenue Santa Cruz, CA",California
+6031862576,Florida Academy of Nursing,Target Account,Lone Campus,ICP 3,Bad Tech Stack,Allied Health,Private for-profit,930,0,Moodle,STARS,12002 Miramar Parkway,Florida
+4108675479,Florida College of Natural Health,Target Account,Lone Campus,ICP 3,Unknown Tech Stack,Career + Trade,,731,,,,2600 Lake Lucien Drive,Florida
+4104399345,Florida Education Institute - Miami,Target Account,Lone Campus,ICP 3,Bad Tech Stack,Allied Health,Private for-profit,239,,Moodle,DiamondD,"5818 SW 8th St Miami, FL",Florida
+4108671202,Florida International Training Institute - Miami,Target Account,Lone Campus,ICP 3,Unknown Tech Stack,Career + Trade,Private for-profit,245,,,,"7265 Northwest 25th Street Miami, FL",Florida
+4108753069,Fox College - Beedford Park,Target Account,Lone Campus,ICP 3,Bad Tech Stack,Allied Health,Private for-profit,404,,Moodle,Homegrown SIS; Other; I grade,"6640 S. Cicero Bedford Park, IL",Illinois
+4108658159,Fred K Marchman Technical College - Richey,Target Account,Lone Campus,ICP 3,Wrong School Type,Career + Trade,Public,217,,,,"7825 Campus Dr. New Port Richey, FL",Florida
+6883591566,Genesis Career College - Corporate Office,Target Account,Corporate Office,ICP 3,Bad Tech Stack,Beauty + Wellness,Not-for-profit,154,1,Canvas,DiamondD,"1505 Noah Court Lebanon, TN",Tennessee
+4108710652,George T Baker Aviation Technical College - Miami,Target Account,Lone Campus,ICP 3,Wrong School Type,Career + Trade,Public,798,,,,"3275 NW 42nd Ave Miami, FL",Florida
+4104406498,Georgia Career Institute - Conyers,Target Account,Lone Campus,ICP 3,Bad Tech Stack,Beauty + Wellness,Private for-profit,510,,PivotPoint,SMART,"900 Flat Shoals Road SE Conyers, GA",Georgia
+4108767200,Great Lakes Truck Driving School - Station,Target Account,Lone Campus,ICP 3,Unknown Tech Stack,Career + Trade,Private for-profit,441,,,,"27740 Royalton Road Columbia Station, OH",Colorado
+6933798155,Gwinnett College - Corporate Office,Target Account,Corporate Office,ICP 3,Bad Tech Stack,Allied Health,Private for-profit,"1,762",5,D2L,Banner (Ellucian),1000 University Center Ln,Georgia
+4104399206,Harris Institute,Target Account,Lone Campus,ICP 3,Unknown Tech Stack,Career + Trade,Private for-profit,768,,,,PO Box 33577,Virginia
+4108780688,Healthcare Career College - Paramount,Target Account,Lone Campus,ICP 3,Bad Tech Stack,Allied Health,Private for-profit,374,,Canvas; Moodle,DiamondD,"8527 Alondra Blvd #174 Paramount, CA",California
+6946559534,Houston Barber School - Corporate,Target Account,Corporate Office,ICP 3,Bad Tech Stack,Beauty + Wellness,Private for-profit,210,4,Milady,Genisis,"313 Rankin Road Houston, TX",Texas
+4108664445,Houston Training School - Corporate Office,Target Account,Corporate Office,ICP 3,Bad Tech Stack,Beauty + Wellness,Private for-profit,321,2,Milady,FAME,"6630 Gulf Fwy Houston, TX",Texas
+4108679080,IBMC College - Collins,Target Account,Lone Campus,ICP 3,Bad Tech Stack,Allied Health,Private for-profit,408,0,D2L,Homegrown SIS,"3842 South Mason Street Fort Collins, CO",Colorado
+4108763250,IGlobal University - Vienna,Target Account,Lone Campus,ICP 3,Bad Tech Stack,Career + Trade,Private for-profit,254,,Canvas,Populi,"8133 Leesburg Pike #230 Vienna, VA",Virginia
+4108711708,Immokalee Technical College - Immokalee,Target Account,Lone Campus,ICP 3,Bad Tech Stack,Allied Health,Public,307,,Blackboard,Homegrown SIS,"508 N 9th St Immokalee, FL",Florida
+4108677717,Infinity College - Lafayette,Target Account,Lone Campus,ICP 3,Bad Tech Stack,Allied Health,Private for-profit,278,0,Moodle,QuickSchools,"117 West Pinhook Rd Lafayette, LA",Louisiana
+4104406504,Institute of Medical Careers - Pittsburgh,Target Account,Lone Campus,ICP 3,Bad Tech Stack,Allied Health,Private for-profit,614,0,Moodle; Open LMS (A Moodle Product),Homegrown SIS,"133 Jefferson Road Pittsburgh, PA",Pennsylvania
+4104275517,International Institute For Health Care Professionals,Target Account,Lone Campus,ICP 3,Bad Tech Stack,Allied Health,Private for-profit,400,,Canvas,STARS,6870 North Federal Highway,Florida
+4108710584,International School of Skin Nailcare & Massage Therapy - Atlanta,Target Account,Lone Campus,ICP 3,Bad Tech Stack,Beauty + Wellness,Private for-profit,363,,Milady,FAME,"5600 Roswell Rd NE Ste 10 Atlanta, GA",Georgia
+4108647952,ITI Technical College - Baton Rouge,Target Account,Lone Campus,ICP 3,Bad Tech Stack,Career + Trade,Private for-profit,603,,Moodle,KSIS - Knowledge State,"13944 Airline Hwy Baton Rouge, LA",Louisiana
+4108710745,J F Ingram State Technical College - Deatsville,Target Account,Lone Campus,ICP 3,Wrong School Type,Career + Trade,Public,399,,,,"5375 Ingram Rd Deatsville, AL",Alabama
+4108679017,L3Harris - Sanford,Target Account,Lone Campus,ICP 3,Unknown Tech Stack,Career + Trade,Private for-profit,365,,,,"2700 Flightline Ave Sanford, FL",Florida
+4108795142,Lakeshore Technical College - Cleveland,Target Account,Lone Campus,ICP 3,Bad Tech Stack,Allied Health,Public,"2,420",0,Blackboard,Homegrown SIS,"1290 North Avenue Cleveland, WI",Wisconsin
+6946544421,Lancaster County Career and Technology Center - Street,Target Account,Lone Campus,ICP 3,Bad Tech Stack,Allied Health,Public,348,0,Canvas,https://www.achademix.net/,"1730 Hans Herr Dr Willow Street, PA",Pennsylvania
+4108753119,Laurel Business Institute - Uniontown,Target Account,Lone Campus,ICP 3,Bad Tech Stack,Beauty + Wellness,Private for-profit,238,,Canvas,STARS,"11 East Penn St Uniontown, PA",Pennsylvania
+6935297910,Laurel Technical Institute - Corporate Office,Target Account,Corporate Office,ICP 3,Bad Tech Stack,Allied Health,Private for-profit,422,2,Canvas,STARS,200 Sterling Avenue,West Virginia
+4108748688,Laurus College - San Luis Obispo,Target Account,Lone Campus,ICP 3,Bad Tech Stack,Career + Trade,Community College,897,0,Moodle,DiamondD,"81 Higuera St Ste 110 San Luis Obispo, CA",California
+4108748676,LeTourneau University - Longview,Target Account,Lone Campus,ICP 3,Bad Tech Stack,Career + Trade,Not-for-profit,"3,122",0,Canvas,Starfish,"2100 S Mobberly Ave Longview, TX",Texas
+4104344631,Lincoln University - Corporate Office,Target Account,Corporate Office,ICP 3,Bad Tech Stack,Career + Trade,Public,"5,820",3,Blackboard; Moodle,Cengage,401 15th Street,Missouri
+4104406516,Long Island Business Institute - Flushing,Target Account,Lone Campus,ICP 3,Bad Tech Stack,Career + Trade,Private for-profit,"1,186",,Jupiter Ed,CVUE,"136-18 39th Avenue Fifth Floor Flushing, NY",New York
+4104294056,Lorenzo Walker Technical College - Naples,Target Account,Lone Campus,ICP 3,Wrong School Type,Allied Health,Public,736,,Canvas,,"3702 Estey Avenue Naples, FL",Florida
+4108678999,Los Angeles College of Music - Pasadena,Target Account,Lone Campus,ICP 3,Bad Tech Stack,Career + Trade,Private for-profit,300,,,Populi,"300 S Fair Oaks Ave Pasadena, CA",California
+4108753094,Los Angeles Film School - Hollywood,Target Account,Lone Campus,ICP 3,Bad Tech Stack,Career + Trade,Community College,"5,669",,LA Film Online,CampusNexus,"6363 Sunset Blvd Hollywood, CA",California
+4108664414,Los Angeles ORT College - Los Angeles Campus,Target Account,Lone Campus,ICP 3,Wrong School Type,Career + Trade,Not-for-profit,455,,,,6435 Wilshire Boulevard,California
+4108722869,Louisiana State University Health Sciences Center - Corporate Office,Target Account,Corporate Office,ICP 3,Bad Tech Stack,Allied Health,Public,"4,088",2,Moodle,PeopleSoft,433 Bolivar St,Louisiana
+4108753988,Manatee Technical College - Bradenton,Target Account,Lone Campus,ICP 3,Wrong School Type,Beauty + Wellness,Public,923,,Canvas,,"6305 State Rd 70 East Bradenton, FL",Florida
+4104406500,Mandl School - The College of Allied Health,Target Account,Lone Campus,ICP 3,Bad Tech Stack,Allied Health,Private for-profit,493,0,"googlesuit, zoom, webex, ThinkWave",ThinkWave,"254 W 54th St New York, NY",New York
+6935501628,Marian Health Careers Center - Corporate Office,Target Account,Corporate Office,ICP 3,Unknown SIS,Allied Health,Private for-profit,398,2,Canvas,,,California
+4108748701,Marion Technical College - Corporate Office,Target Account,Corporate Office,ICP 3,Bad Tech Stack,Allied Health,Public,"3,951",2,Canvas,FOCUS,1014 SW 7th Rd,Ohio
+6946544424,Martinsburg College - Martinsburg,Target Account,Lone Campus,ICP 3,Bad Tech Stack,Allied Health,Private for-profit,"1,691",0,Moodle,Homegrown SIS,"341 Aikens Center Martinsburg, WV",West Virginia
+4108739436,MedQuest College - Louisville,Target Account,Lone Campus,ICP 3,Bad Tech Stack,Allied Health,Private for-profit,337,0,Populi,Populi; Trajecsys,"10400 Linn Station Road Suite 120 Louisville, KY",Kentucky
+4108651530,Meridian Institute of Surgical Assisting - Nashville,Target Account,Lone Campus,ICP 3,Bad Tech Stack,Allied Health,Private for-profit,816,,Canvas,Jenzabar,"1507 County Hospital Road Nashville, TN",Tennessee
+4104406578,MGH Institute of Health Professions - Boston,Target Account,Lone Campus,ICP 3,Wrong School Type,Allied Health,Not-for-profit,"1,269",,D2L,,"36 1st Avenue Boston, MA",Massachusetts
+6946608915,Mid - America Technology Center,Target Account,Lone Campus,ICP 3,Bad Tech Stack,Allied Health,Public,974,0,Powerschool,Powerschool,"27438 State Hwy 59 Wayne, OK",Oklahoma
+6946615455,Mid-Del Technology Center,Target Account,Lone Campus,ICP 3,Bad Tech Stack,Career + Trade,Public,337,0,LERN,Jibble,"1621 Maple Dr Midwest City, OK",Oklahoma
+6006475167,Miller-Motte College - Tulsa,Prospect,Franchise,ICP 3,Unknown LMS,Allied Health,Private for-profit,167,0,,CVUE,"3801 S Sheridan Tulsa, OK",Oklahoma
+4108739543,Milwaukee Career College - Milwaukee,Target Account,Lone Campus,ICP 3,Unknown LMS,Allied Health,Private for-profit,231,0,,CVUE; CampusNexus; Anthology,"3077 N Mayfair Rd Ste 300 Milwaukee, WI",Wisconsin
+4108780709,Motoring Technical Training Institute - Corporate Office,Target Account,Corporate Office,ICP 3,Unknown LMS,Career + Trade,Private for-profit,622,2,,Orbund,1241 Fall River Avenue,Massachusetts
+4108710578,MyComputerCareer.edu - Corporate Office,Target Account,Corporate Office,ICP 3,Unknown SIS,Career + Trade,Private for-profit,"4,887",3,Canvas,,380 Polaris Parkway Suite 110,Texas
+6946637657,NASCAR Technical Institute - Mooresville,Target Account,Lone Campus,ICP 3,Unknown SIS,Career + Trade,Private for-profit,"1,204",0,Blackboard,,"220 Byers Creek Road Mooresville, NC",North Carolina
+4108710607,National Aviation Academy - Corporate Office,Target Account,Corporate Office,ICP 3,Bad Tech Stack,Career + Trade,Private for-profit,"1,200",2,None,CampusNexus,130 Baker Ave Extension,Massachusetts
+4108664413,National Beauty College - Corporate Office,Target Account,Corporate Office,ICP 3,Bad Tech Stack,Beauty + Wellness,Private for-profit,322,2,PivotPoint,Prestige,4642 Cleveland Avenue Northwest,Ohio
+4104332045,National Holistic Institute - Emeryville,Target Account,Lone Campus,ICP 3,Unknown SIS,Allied Health,Private for-profit,"1,071",,Canvas,,"5900 Doyle Street Emeryville, CA",California
+4108795175,National Tractor Trailer School Inc - Corporate Office,Target Account,Corporate Office,ICP 3,Bad Tech Stack,Career + Trade,Private for-profit,504,2,None,None; PIC?,175 Katherine St,New York
+4104275462,New Age Training - New York,Target Account,Lone Campus,ICP 3,Unknown Tech Stack,Allied Health,Private for-profit,215,,,,"145 West 30th Street 8th Floor New York, NY",New York
+4104406525,New Castle School of Trades - Castle,Target Account,Lone Campus,ICP 3,Bad Tech Stack,Career + Trade,Private for-profit,606,,Moodle,SONIS,"4117 Pulaksi Road New Castle, PA",Pennsylvania
+4104332114,New Horizons of Phoenix,Target Account,Lone Campus,ICP 3,Bad Tech Stack,Career + Trade,Private for-profit,300,,MS365,,4710 East Elwood Street,Arizona
+4108677723,New York Career Training School LLC,Target Account,Lone Campus,ICP 3,Bad Tech Stack,Career + Trade,Private for-profit,244,,None,None,1032 Beach 20th St,New York
+4108711670,NIMA - Jordan,Target Account,Lone Campus,ICP 3,Bad Tech Stack,Beauty + Wellness,Private for-profit,212,,Canvas,SMART,"10714 South River Front Parkway South Jordan, UT",Utah
+4108658188,North Adrian's College of Beauty Inc - Modesto,Target Account,Lone Campus,ICP 3,Bad Tech Stack,Beauty + Wellness,Private for-profit,215,,PivotPoint,Genisis; genesis_sis,"124 Floyd Ave Modesto, CA",California
+6755281316,North American Trade Schools,Target Account,Lone Campus,ICP 3,Unknown Tech Stack,Career + Trade,Private for-profit,551,0,,,847 HIGHBURY AVE N,California
+4104332076,North American Trade Schools - Baltimore,Target Account,Lone Campus,ICP 3,Bad Tech Stack,Career + Trade,Private for-profit,627,,Canvas,Jenzabar,"6901 Security Blvd Suite 16 Baltimore, MD",Maryland
+6935318639,Northeast Technology Center - Corporate Office,Target Account,Corporate Office,ICP 3,Bad Tech Stack,Allied Health,Public,821,5,Moodle,Remind,511 South Elliott Street,OK
+4104406572,Northshore Technical Community College - Lacombe,Target Account,Lone Campus,ICP 3,Bad Tech Stack,Career + Trade,Community College,"3,552",,Canvas,Homegrown SIS; LoLA,"65556 Centerpoint Blvd. Lacombe, LA",Louisiana
+4104294085,Northwest Technical College - Bemidji,Target Account,Lone Campus,ICP 3,Bad Tech Stack,Allied Health,Public,825,0,D2L,Homegrown SIS,"905 Grant Avenue SE Bemidji, MN",Minnesota
+6935537669,Northwest Technology Center - Corporate Office,Target Account,Corporate Office,ICP 3,Bad Tech Stack,Allied Health,,248,2,,SONIS,,
+4108754082,Northwestern Technological Institute - Southfield,Target Account,Lone Campus,ICP 3,Bad Tech Stack,Career + Trade,Private for-profit,852,,Canvas,Homegrown SIS; Access,"24567 Northwestern Hwy Ste 200 Southfield, MI",Michigan
+4108744144,Ocean Corporation - Houston,Target Account,Lone Campus,ICP 3,Bad Tech Stack,Career + Trade,Private for-profit,300,0,Google Classroom,STARS,"10840 Rockley Rd Houston, TX",Texas
+4108710651,Ohio Business College - Corporate Office,Target Account,Corporate Office,ICP 3,Bad Tech Stack,Career + Trade,Private for-profit,637,5,Canvas,DiamondD,5202 Timber Commons Drive,Ohio
+4108679265,Ohio Technical College - Cleveland,Target Account,Lone Campus,ICP 3,Bad Tech Stack,Career + Trade,Private for-profit,300,,Ellucian,DiamondD,"1374 E 51st St Cleveland, OH",Ohio
+4108753200,Orleans Technical College - Philadelphia,Target Account,Lone Campus,ICP 3,Wrong School Type,Career + Trade,Not-for-profit,269,0,,CampusNexus,"2770 Red Lion Road Philadelphia, PA",Pennsylvania
+4108711637,Pacific College - Mesa,Target Account,Lone Campus,ICP 3,Bad Tech Stack,Allied Health,Community College,249,,,SONIS,"3160 Red Hill Ave Costa Mesa, CA",California
+4108780795,PCI Academy - Corporate Office,Target Account,Corporate Office,ICP 3,Bad Tech Stack,Beauty + Wellness,Private for-profit,387,2,PivotPoint,Campus Login,309 Kitty Hawk Dr.,Iowa
+4108647957,PCI Health Training Center - Dallas,Target Account,Lone Campus,ICP 3,Bad Tech Stack,Allied Health,Private for-profit,378,0,Canvas,Campus Cloud,"8101 John Carpenter Fwy Dallas, TX",Texas
+4108657973,Peloton College - Corporate Office,Target Account,Corporate Office,ICP 3,Bad Tech Stack,Allied Health,Private for-profit,533,2,Custom,STARS,1200 East Copeland Road,Texas
+4108718585,Pennco Tech - Corporate Office,Target Account,Corporate Office,ICP 3,Unknown LMS,Career + Trade,Private for-profit,"1,559",2,,CVUE,99 Erial Road,Pennsylvania
+4104406502,Pinnacle Career Institute - Corporate Office,Target Account,Corporate Office,ICP 3,Unknown SIS,Career + Trade,Private for-profit,"2,363",2,Canvas,,10301 Hickman Mills Dr.,Missouri
+6946615475,Pioneer Technology Center - Ponca City,Target Account,Lone Campus,ICP 3,Bad Tech Stack,Allied Health,Public,384,0,Canvas,Powerschool,"2101 N Ash Ponca City, OK",Oklahoma
+4108677743,Pittsburgh Institute of Aeronautics - Mifflin,Target Account,Lone Campus,ICP 3,Wrong School Type,Career + Trade,Not-for-profit,567,,Canvas,,"5 Allegheny County Airport West Mifflin, PA",Pennsylvania
+6946559519,Polytech Adult Education - Woodside,Target Account,Lone Campus,ICP 3,Bad Tech Stack,Allied Health,Public,351,0,Schoology,,"823 Walnut Shade Road Woodside, DE",Delaware
+4108753107,Praxis Institute - Miami,Target Account,Lone Campus,ICP 3,Bad Tech Stack,Allied Health,Private for-profit,405,0,Blackboard,Homegrown SIS,"1850 SW 8th St 4th Fl Miami, FL",Florida
+4108677664,Professional Skills Institute - Maumee,Target Account,Lone Campus,ICP 3,Bad Tech Stack,Allied Health,Private for-profit,350,0,Blackboard; Open LMS- A moodle product,Campus Cloud; Camp,"1505 Holland Road Maumee, OH",Ohio
+4108722993,Rio Grande Valley College,Target Account,Lone Campus,ICP 3,Bad Tech Stack,Allied Health,Private for-profit,614,0,Canvas,DiamondD,"5419 North Cage Boulevard Pharr, TX",Texas
+4108647967,Riverside College of Health Careers - News,Target Account,Lone Campus,ICP 3,Bad Tech Stack,Allied Health,Not-for-profit,303,,Canvas,SONIS,"316 Main Street Newport News, VA",Virginia
+4104275463,Rizzieri Aveda School - Voorhees,Prospect,Franchise,ICP 3,Unknown SIS,Beauty + Wellness,Private for-profit,268,,PivotPoint,,"8200 Town Center Blvd - Voorhees, New Jersey",New Jersey
+4108677666,Roadmaster Drivers School,Target Account,Lone Campus,ICP 3,Unknown Tech Stack,Career + Trade,Private for-profit,244,0,,,11300 4th Street North,Florida
+4104275447,Rob Roy Academy - Corporate Office,Target Account,Corporate Office,ICP 3,Bad Tech Stack,Beauty + Wellness,Private for-profit,326,4,PivotPoint,Genisis,150 Pleasant St,Massachusetts
+4108780971,Rosedale Technical College - Pittsburgh,Target Account,Lone Campus,ICP 3,Bad Tech Stack,Career + Trade,Community College,385,0,Moodle,None,"215 Beecham Drive Suite 2 Pittsburgh, PA",Pennsylvania
+4108710634,Royal Learning Institute,Target Account,Lone Campus,ICP 3,Bad Tech Stack,Career + Trade,Private for-profit,201,,Stack Blue,,37-17 76th Street 2nd Floor,New York
+4108748660,Saint Anthony College of Nursing - Rockford,Target Account,Lone Campus,ICP 3,Bad Tech Stack,Allied Health,Not-for-profit,349,,Canvas,SONIS,"3301 N. Mulford Road Rockford, IL",Illinois
+6946608922,Saint Mary-of-the-Woods College,Target Account,Lone Campus,ICP 3,Unknown Tech Stack,Career + Trade,Private for-profit,523,0,,,"734 SE Military San Antonio, TX",Indiana
+4108748697,Salon Schools Group,Target Account,Corporate Office,ICP 3,Bad Tech Stack,Beauty + Wellness,Private for-profit,300,0,PivotPoint,Homegrown SIS,1720 East Broad Street,Ohio
+4104335853,Savannah Technical College - Savannah,Target Account,Lone Campus,ICP 3,Bad Tech Stack,Allied Health,Public,"5,000",,Blackboard,Banner (Ellucian),"5717 White Bluff Rd Savannah, GA",Georgia
+4104332094,Soma Institute - The National School of Clinical Massage Therapy,Target Account,Lone Campus,ICP 3,Unknown SIS,Beauty + Wellness,Private for-profit,361,,Canvas,,"55 E. Jackson Boulevard - Ste 300 Chicago, IL",Illinois
+4108722885,South Coast College - Orange,Target Account,Lone Campus,ICP 3,Unknown Tech Stack,Career + Trade,Private for-profit,254,0,,,"2011 W. Chapman Avenue Orange, CA",California
+6946583186,South Dade Technical College,Target Account,Lone Campus,ICP 3,Bad Tech Stack,Beauty + Wellness,Public,282,0,Milady; Canvas; Cengage,"Focus, DSIS","28300 S.W. 152nd Avenue Leisure City, FL",Florida
+4108677835,South Georgia Technical College - Americus,Target Account,Lone Campus,ICP 3,Bad Tech Stack,Career + Trade,Public,"1,814",,Blackboard,Banner (Ellucian),"900 South GA Tech Parkway Americus, GA",Georgia
+4108711559,South Hills School of Business & Technology - College,Target Account,Lone Campus,ICP 3,Bad Tech Stack,Allied Health,Private for-profit,307,,Canvas,Sage,"480 Waupelani Dr State College, PA",Pennsylvania
+4108780691,South Texas Vocational Technical Institute - Corporate Office,Target Account,Corporate Office,ICP 3,Unknown LMS,Allied Health,Private for-profit,"1,009",2,,CVUE,1900 North Expressway,Texas
+4108679061,Southeastern Technical College - Vidalia,Target Account,Lone Campus,ICP 3,Bad Tech Stack,Allied Health,Public,"1,792",,Blackboard,Banner (Ellucian),"3001 E First St Vidalia, GA",Georgia
+4108651780,Southern California Health Institute - Hollywood,Target Account,Lone Campus,ICP 3,Bad Tech Stack,Allied Health,Private for-profit,300,,Canvas,DiamondD,"5644 Vineland Ave North Hollywood, CA",California
+4104332068,Southern California Institute of Technology - Anaheim,Target Account,Lone Campus,ICP 3,Bad Tech Stack,Career + Trade,Community College,568,,Custom,,"525 N. Muller Street Anaheim, CA",California
+4108679176,Southwest Technical College - South Cedar City,Target Account,Lone Campus,ICP 3,Wrong School Type,Allied Health,Public,586,,Canvas,,"757 West 800 South Cedar City, UT",Utah
+4108710592,Southwest University - El Paso,Target Account,Lone Campus,ICP 3,Bad Tech Stack,Allied Health,Community College,"1,558",,Moodle,Homegrown SIS,"1414 Geronimo El Paso, TX",Texas
+6936236809,Southwestern College - Corporate Office,Target Account,Corporate Office,ICP 3,Unknown SIS,Career + Trade,Private for-profit,436,3,Canvas,,900 Otay Lakes Road,California
+4104332309,Spa Tech Institute - Corporate Office,Target Account,Corporate Office,ICP 3,Bad Tech Stack,Beauty + Wellness,Community College,893,4,PivotPoint,Genisis,126 High St,Massachusetts
+6936253208,St Joseph School of Nursing - Corporate Office,Target Account,Corporate Office,ICP 3,Bad Tech Stack,Allied Health,Not-for-profit,522,2,,SONIS,5 Woodward Avenue,California
+4108664426,Standard Healthcare Services - College of Nursing,Target Account,Lone Campus,ICP 3,Bad Tech Stack,Allied Health,Private for-profit,700,,Evolve Elsevier,Populi,"7704 Leesburg Pike Suite 1000 Falls Church, VA",Virginia
+4104344514,Stevens-Henager College - Corporate Office,Target Account,Corporate Office,ICP 3,Wrong School Type,Career + Trade,Not-for-profit,986,7,Canvas,,4021 700 East,Utah
+4956256737,Summit Salon Academy - Tampa,Prospect,Franchise,ICP 3,Unknown Tech Stack,Beauty + Wellness,Private for-profit,208,0,,,"4802 Gunn Hwy Suite 144 Tampa, FL",FL
+4104293989,Swedish Institute a College of Health Sciences - New York,Target Account,Lone Campus,ICP 3,Bad Tech Stack,Allied Health,Private for-profit,765,,Canvas,Vyas,"226 West 26th Street New York, NY",New York
+6936236820,Taylor Andrews Academy of Hair Design - Corporate Office,Target Account,Corporate Office,ICP 3,Bad Tech Stack,Beauty + Wellness,Not-for-profit,499,1,PivotPoint,SMART; Prosper U,9052 South 1510 West,Utah
+4108657977,Taylor College - Belleview,Target Account,Lone Campus,ICP 3,Bad Tech Stack,Allied Health,Private for-profit,228,0,None,DiamondD,"5190 SE 125th Street Belleview, FL",Florida
+4108795284,Technical College of the Rockies - Delta,Target Account,Lone Campus,ICP 3,Bad Tech Stack,Allied Health,Public,217,,Moodle,SONIS,"1765 hwy 50 Delta, CO",Colorado
+4108651619,Texas Chiropractic College Foundation Inc - Pasadena,Target Account,Lone Campus,ICP 3,Wrong School Type,Allied Health,Not-for-profit,250,,Canvas,,"5912 Spencer Hwy Pasadena, TX",Texas
+6936328535,The Art Institute - Corporate Office,Target Account,Corporate Office,ICP 3,Unknown SIS,Career + Trade,Private for-profit,"3,991",7,D2L,,1799 S E 17th St,Massachusetts
+4104275490,The Institute of Beauty and Wellness - Milwaukee,Prospect,Franchise,ICP 3,Bad Tech Stack,Beauty + Wellness,Private for-profit,196,0,LearnAveda,FAME,"327 East St. Paul Avenue - Milwaukee, Wisconsin",Wisconsin
+6935788829,The Salon Professional Academy - Evansville,Prospect,Franchise,ICP 3,Bad Tech Stack,Beauty + Wellness,Private for-profit,165,0,,SMART,"5545 Vogel Road Evansville, IN 47715",IN
+6936259453,The Salon Professional Academy - Rochester,Prospect,Franchise,ICP 3,Unknown Tech Stack,Beauty + Wellness,Private for-profit,250,0,,,"1600 Saratoga Ave, Ste 103",California
+5172968999,The Salon Professional Academy - San Jose,Prospect,Franchise,ICP 3,Unknown Tech Stack,Beauty + Wellness,Private for-profit,237,0,,,"1600 Saratoga Ave Ste. 103 San Jose, CA 95129",CA
+6936285362,The Salon Professional Academy - St Charles,Prospect,Franchise,ICP 3,Bad Tech Stack,Beauty + Wellness,Private for-profit,161,0,None,Invision,"3141 West Clay Street St. Charles, MO",Missouri
+4104391083,The Salon Professional Academy - Tonawanda,Prospect,Franchise,ICP 3,Bad Tech Stack,Beauty + Wellness,Private for-profit,165,0,Cengage,,"2309 Eggert Rd Tonawanda, NY",New York
+4108677677,The Studio Academy of Beauty,Target Account,Lone Campus,ICP 3,Bad Tech Stack,Beauty + Wellness,Private for-profit,704,0,PivotPoint,Online Discovery Pro,610 North Alma School Road,Arizona
+4108718778,Traviss Technical Center,Target Account,Lone Campus,ICP 3,Wrong School Type,Career + Trade,Public,450,0,,,1915 South Floral Avenue,Florida
+4108675456,Triangle Tech Inc - Corporate Office,Target Account,Corporate Office,ICP 3,Bad Tech Stack,Career + Trade,Private for-profit,940,6,Blue Triangle,CampusNexus,3184 Airport Road,Pennsylvania
+6946535010,Tulsa Technology Center - Tulsa,Target Account,Lone Campus,ICP 3,Bad Tech Stack,Allied Health,Public,"3,985",0,Blackboard,Homegrown SIS,"3420 S Memorial Drive Tulsa, OK",Oklahoma
+4108722868,Unitech Training Academy - Corporate Office,Target Account,Corporate Office,ICP 3,Bad Tech Stack,Allied Health,Not-for-profit,"2,830",7,,Jenzabar,2800 S. MacArthur Drive,Louisiana
+4104275464,Verve College - Chicago,Target Account,Lone Campus,ICP 3,Bad Tech Stack,Allied Health,Private for-profit,347,1,Proctorio - https://proctorio.com/,DiamondD,216 West Jackson Boulevard,Illinois
+6938101147,Vet Tech Institute - Corporate Office,Target Account,Corporate Office,ICP 3,Bad Tech Stack,Allied Health,Private for-profit,828,2,Canvas,Homegrown SIS,,Illinois
+6946544446,Warren County Career Center - Lebanon,Target Account,Lone Campus,ICP 3,Bad Tech Stack,Allied Health,Public,202,0,Canvas,axstudent,"3525 North State Route 48 Lebanon, OH",Ohio
+6946637709,Warrensburg Area Career Center - Warrensburg,Target Account,Lone Campus,ICP 3,Wrong School Type,Allied Health,Public,600,0,Canvas,,"205 S. Ridgeview Dr Warrensburg, MO",Missouri
+4108795129,WellSpring School of Allied Health - Corporate Office,Target Account,Corporate Office,ICP 3,Bad Tech Stack,Allied Health,Private for-profit,667,4,D2L; Brightspace,XCAS,9140 Ward Pkwy Ste 100,Kansas
+4108795107,West Virginia Junior College - Corporate Office,Target Account,Corporate Office,ICP 3,Bad Tech Stack,Allied Health,Private for-profit,"1,516",6,Canvas,DiamondD,176 Thompson Dr.,Pennsylvania
+4108753817,Western State College of Law at Argosy University,Target Account,Lone Campus,ICP 3,Bad Tech Stack,Career + Trade,Private for-profit,409,,Moodle,Banner (Ellucian),1111 N State College Blvd,California
+4108710700,Western Technology Center - Flat,Target Account,Lone Campus,ICP 3,Wrong School Type,Allied Health,Public,474,,,,"621 Sooner Drive Burns Flat, OK",Oklahoma
+4108671123,Wichita Technical Institute - Wichita,Target Account,Lone Campus,ICP 3,Bad Tech Stack,Allied Health,Private for-profit,"1,157",,Canvas,DiamondD,"2051 South Meridian Wichita, KS",Kansas
+6682962505,Williamson College of the Trades - Media,Target Account,Lone Campus,ICP 3,Bad Tech Stack,Career + Trade,Not-for-profit,249,0,Canvas,Blackbaud,"106 South New Middletown Road Media, PA",Pennsylvania
+4108710640,Windsor Career College,Target Account,Lone Campus,ICP 3,Bad Tech Stack,Career + Trade,Not-for-profit,250,0,None,AMP Educator,"235 Eugenie St West, Ste 200",Outside USA
+4104344590,Academy for Salon Professionals,Prospect,Franchise,ICP 4,Too Small,Beauty + Wellness,Private for-profit,135,,Milady,,19520 Nordhoff Street,California
+4104332044,Academy for Salon Professionals - Northridge,Prospect,Franchise,ICP 4,Too Small,Beauty + Wellness,Private for-profit,101,0,,,"19520 Nordhoff St. Unit 9 Northridge, CA",California
+4108710609,Academy of Salon Professionals - Sedalia,Prospect,Franchise,ICP 4,Too Small,Beauty + Wellness,Private for-profit,44,,,SMART,"2414 S. Limit Ave Sedalia, MO",Missouri
+4108664453,American School of Nursing and Allied Health,Target Account,Lone Campus,ICP 4,Too Small,Allied Health,Private for-profit,100,,Google classroom,Orbund,14000 Crown Court,Virginia
+4104270903,Ancora Education,Target Account,,ICP 4,Too Small,Primary Education,Private for-profit,120,6,Canvas,CampusNexus,8701 West Bedford Euless Road,Arkansas
+7875842172,Aveda Arts - Arlington,Prospect,Franchise,ICP 4,Bad Tech Stack,Beauty + Wellness,Private for-profit,,0,PivotPoint,Salesforce,"671 N. Glebe Road, Suite 1280 - Arlington, Virginia",Virginia
+7718751754,Aveda Arts - Atlanta,Prospect,Franchise,ICP 4,Bad Tech Stack,Beauty + Wellness,Private for-profit,,0,PivotPoint,Salesforce,"1745 Peachtree Street NE, Ste. A - Atlanta, Georgia",Georgia
+7875990896,Aveda Arts - Austin,Prospect,Franchise,ICP 4,Bad Tech Stack,Beauty + Wellness,Private for-profit,,0,PivotPoint,Salesforce,"6001 Middle Fiskville Rd, Suite 200 - Austin, Texas",Texas
+4108748693,Aveda Arts - Baton Rouge,Prospect,Franchise,ICP 4,Too Small,Beauty + Wellness,Private for-profit,138,0,PivotPoint,Salesforce,"2834 S. Sherwood Forest Blvd., Suite A - Baton Rouge, Louisiana",Louisiana
+7717726137,Aveda Arts - Birmingham,Prospect,Franchise,ICP 4,Bad Tech Stack,Beauty + Wellness,Private for-profit,,0,PivotPoint,Salesforce,"3200 Galleria Blvd - Birmingham, Alabama",Alabama
+7718968847,Aveda Arts - Charlotte,Prospect,Franchise,ICP 4,Bad Tech Stack,Beauty + Wellness,Private for-profit,,0,PivotPoint,Salesforce,"1520 South Blvd. , Suite 150 - Charlotte, North Carolina",North Carolina
+7876002958,Aveda Arts - Corpus Christi,Prospect,Franchise,ICP 4,Bad Tech Stack,Beauty + Wellness,Private for-profit,,0,PivotPoint,Salesforce,"1110 Ayers St - Corpus Christi, Texas",Texas
+7876002957,Aveda Arts - Dallas,Prospect,Franchise,ICP 4,Bad Tech Stack,Beauty + Wellness,Private for-profit,,0,PivotPoint,Salesforce,"8188 Park Lane, Suite C-150 - Dallas, Texas",Texas
+7718830676,Aveda Arts - Hammond,Prospect,Franchise,ICP 4,Bad Tech Stack,Beauty + Wellness,Private for-profit,,0,PivotPoint,Salesforce,"104 E Thomas St - Hammond, Louisiana",Louisiana
+7875776343,Aveda Arts - Houston,Prospect,Franchise,ICP 4,Bad Tech Stack,Beauty + Wellness,Private for-profit,,0,PivotPoint,Salesforce,"19241 David Memorial Dr - Houston, Texas",Texas
+7875965311,Aveda Arts - Nashville,Prospect,Franchise,ICP 4,Bad Tech Stack,Beauty + Wellness,Private for-profit,,0,PivotPoint,Salesforce,"1765 Galleria Blvd - Franklin, Tennessee",Tennessee
+7719018161,Aveda Arts - New Orleans,Prospect,Franchise,ICP 4,Bad Tech Stack,Beauty + Wellness,Private for-profit,,0,PivotPoint,Salesforce,"3330 Veterans Memorial Blvd. - Metairie, Louisiana",Louisiana
+4104332040,Aveda Arts - Seattle,Prospect,Franchise,ICP 4,Too Small,Beauty + Wellness,Private for-profit,23,,PivotPoint,Salesforce,"1514 10th Avenue - Seattle, Washington",Washington
+7718829569,Aveda Institute - Boise,Prospect,Franchise,ICP 4,Too Small,Beauty + Wellness,Private for-profit,48,0,PivotPoint,FAME,"10222 W Fairview Ave - Boise, Idaho",Idaho
+7719018561,Aveda Institute - Las Vegas,Prospect,Franchise,ICP 4,Bad Tech Stack,Beauty + Wellness,Private for-profit,,0,PivotPoint,SMART,"4856 S. Eastern Avenue - Las Vegas, Nevada",Nevada
+6188640114,Aveda Institute - Maryland,Prospect,Franchise,ICP 4,Too Small,Beauty + Wellness,Private for-profit,129,0,PivotPoint,SMART,"227 Archer St - Bel Air, Maryland",Maryland
+4104406577,Aveda Institute - New Mexico,Prospect,Franchise,ICP 4,Too Small,Beauty + Wellness,Private for-profit,105,0,PivotPoint,SMART,"1816 Central Ave SW - Albuquerque, New Mexico",New Mexico
+7529707090,Aveda Institute - Orlando,Prospect,Franchise,ICP 4,Unknown SIS,Beauty + Wellness,,,0,PivotPoint,,"495 N Semoran Blvd - Winter Park, Florida",Florida
+4108671198,Aveda Institute - Phoenix,Prospect,Franchise,ICP 4,Too Small,Beauty + Wellness,Private for-profit,127,0,PivotPoint,,"8475 South Emerald Drive - Suite 101, 104 - Tempe, Arizona",Arizona
+6920190065,Aveda Institute - Provo,Prospect,Franchise,ICP 4,Too Small,Beauty + Wellness,Private for-profit,92,0,PivotPoint,,"210 N University Ave - Provo, Utah",Utah
+7529632153,Aveda Institute - South Florida,Prospect,Franchise,ICP 4,Unknown SIS,Beauty + Wellness,,,0,PivotPoint,,4000 Pheasant Ridge Dr,Minnesota
+4108651640,Aveda Institute - Twin Falls,Prospect,Franchise,ICP 4,Too Small,Beauty + Wellness,Private for-profit,76,0,PivotPoint,,"837 Pole Line Road - Twin Falls, Idaho",Idaho
+6023718684,Aveda Institute Toronto,Prospect,Franchise,ICP 4,Bad Tech Stack,Beauty + Wellness,Private for-profit,,0,PivotPoint,Campus Login,125 King St E,Outside USA
+6284412334,Aveda Means Business,Prospect,Franchise,ICP 4,Too Small,Beauty + Wellness,Private for-profit,100,0,PivotPoint,,303 South Pine Street,Louisiana
+6921189768,Brown Aveda Institute (Cleveland East) - Mentor,Prospect,Franchise,ICP 4,Too Small,Beauty + Wellness,Private for-profit,120,0,PivotPoint,SMART,"8816 Mentor Avenue - Mentor, Ohio",Ohio
+6921196629,Brown Aveda Institute (Cleveland West) - Strongsville,Prospect,Franchise,ICP 4,Too Small,Beauty + Wellness,Private for-profit,113,0,PivotPoint,SMART,"17901 Southpark Center - Strongsville, Ohio",Ohio
+4104332156,Casal Aveda Institute - Niles,Prospect,Franchise,ICP 4,Too Small,Beauty + Wellness,Private for-profit,92,,PivotPoint,SMART,"5555 Youngstown-Warren Road - Niles, Ohio",Ohio
+6930889537,Elevate Salon Institute - River Oak,Prospect,Franchise,ICP 4,Too Small,Beauty + Wellness,Private for-profit,147,0,,,"4050 Crooks Rd. Royal Oak, MI",Michigan
+6931352411,Empire Beauty School - Bordentown,Prospect,Franchise,ICP 4,Too Small,Beauty + Wellness,Private for-profit,91,0,,,"610 Rt 206 Bordentown, NJ",New Jersey
+6931352404,Empire Beauty School - Cheltenham,Prospect,Franchise,ICP 4,Too Small,Beauty + Wellness,Private for-profit,105,0,,,"Cedarbrook Plaza 1000 Easton Road Wyncote, PA",Pennsylvania
+6930906486,Empire Beauty School - Dunwoody,Prospect,Franchise,ICP 4,Unknown Tech Stack,Beauty + Wellness,Private for-profit,,0,,,"4719 Ashford-Dunwoody Rd Suite 205 Dunwoody, GA",Georgia
+6931022891,Empire Beauty School - Gwinnett,Prospect,Franchise,ICP 4,Too Small,Beauty + Wellness,Private for-profit,103,0,,,"1455 Pleasant Hill Road Suite 105 Lawrenceville, GA",Georgia
+6930919698,Empire Beauty School - Hurstborne,Prospect,Franchise,ICP 4,Unknown Tech Stack,Beauty + Wellness,Private for-profit,,0,,,"5314 Bardstown Rd Louisville, KY",Kentucky
+6931061619,Empire Beauty School - Laconia,Prospect,Franchise,ICP 4,Too Small,Beauty + Wellness,Private for-profit,64,0,,,"556 Main St Laconia, NH",New Hampshire
+6931022897,Empire Beauty School - Lehigh Valley,Prospect,Franchise,ICP 4,Too Small,Beauty + Wellness,Private for-profit,63,0,,,"1634 MacArthur Rd Whitehall, PA",Pennsylvania
+6930914168,Empire Beauty School - Midlothian,Prospect,Franchise,ICP 4,Too Small,Beauty + Wellness,Private for-profit,75,0,,,"10807 Hull Street Rd Midlothian, VA",Virginia
+6930919699,Empire Beauty School - NW Phoenix,Prospect,Franchise,ICP 4,Too Small,Beauty + Wellness,Private for-profit,48,0,,,"2727 W. Glendale Ave. #200 Phoenix, AZ",Arizona
+6931061621,Empire Beauty School - S Memphis,Prospect,Franchise,ICP 4,Too Small,Beauty + Wellness,Private for-profit,61,0,,,"804 S Highland St Memphis, TN",Tennessee
+6930934956,Empire Beauty School - Spring Lake Park,Prospect,Franchise,ICP 4,Too Small,Beauty + Wellness,Private for-profit,79,0,,,"8205 University Ave Spring Lake Park, MN",Minnesota
+6931049026,Empire Beauty School - Tuscon,Prospect,Franchise,ICP 4,Too Small,Beauty + Wellness,Private for-profit,114,0,,,"3030 E Speedway Blvd Tucson, AZ",Arizona
+6930889536,Empire Beauty School - Warwick,Prospect,Franchise,ICP 4,Too Small,Beauty + Wellness,Private for-profit,83,0,,,"151 Broadway Providence, RI",Rhode Island
+6930889544,Empire Beauty School - West Greensboro,Prospect,Franchise,ICP 4,Too Small,Beauty + Wellness,Private for-profit,105,0,,,"1312 Bridford Parkway Suite 105 Greensboro, NC",North Carolina
+6931068999,Empire Beauty School - Wyoming Valley,Prospect,Franchise,ICP 4,Too Small,Beauty + Wellness,Private for-profit,138,0,,,"3370 Birney Avenue Moosic, PA",Pennsylvania
+7875941460,Empire Beauty Schools - Allentown-Whitehall,Prospect,Franchise,ICP 4,No Data,Beauty + Wellness,,,0,,,15 Ward Street,Pennsylvania
+6930906482,Empire Beauty Schools - Astoria/Queens,Prospect,Franchise,ICP 4,Too Small,Beauty + Wellness,Private for-profit,138,0,,,"38-15 Broadway Astoria, NY",New York
+6930934957,Empire Beauty Schools - Atlanta-Kennesaw,Prospect,Franchise,ICP 4,Too Small,Beauty + Wellness,Private for-profit,101,0,,,2615 George Busbee Pkwy NW,Georgia
+7875882788,Empire Beauty Schools - Atlanta-Lawrenceville,Prospect,Franchise,ICP 4,No Data,Beauty + Wellness,,,0,,,15 Ward Street,Georgia
+6930899851,Empire Beauty Schools - Atlanta-Northlake,Prospect,Franchise,ICP 4,Too Small,Beauty + Wellness,Private for-profit,97,0,,,"Briarcliff Village 2190 Henderson Mill Road Atlanta, GA",Georgia
+6931076423,Empire Beauty Schools - Augusta,Prospect,Franchise,ICP 4,Too Small,Beauty + Wellness,Private for-profit,90,0,,,"3241 Washington Road Augusta, GA",Georgia
+6931352408,Empire Beauty Schools - Aurora-Denver,Prospect,Franchise,ICP 4,Too Small,Beauty + Wellness,Private for-profit,65,0,,,"16800 E. Mississippi Ave. Aurora, CO",Colorado
+7875842171,Empire Beauty Schools - Bangor,Prospect,Franchise,ICP 4,No Data,Beauty + Wellness,,,0,,,15 Ward Street,Maine
+6931034435,Empire Beauty Schools - Bloomfield-East Orange,Prospect,Franchise,ICP 4,Too Small,Beauty + Wellness,Private for-profit,96,0,,,"15 Ward Street Bloomfield, NJ",New Jersey
+6931345018,Empire Beauty Schools - Bloomington,Prospect,Franchise,ICP 4,Too Small,Beauty + Wellness,Private for-profit,129,0,,,"9749 Lyndale Ave S Bloomington, MN",Minnesota
+6931069000,Empire Beauty Schools - Boston,Prospect,Franchise,ICP 4,Too Small,Beauty + Wellness,Private for-profit,99,0,,,"30 West Street Boston, MA",Massachusetts
+6930906480,Empire Beauty Schools - Brentwood-Nashville,Prospect,Franchise,ICP 4,Too Small,Beauty + Wellness,Private for-profit,79,0,CLIC (Certified Learing in Education),,"7106 Moore's Ln Brentwood, TN",Tennessee
+6930889546,Empire Beauty Schools - Brooklyn,Prospect,Franchise,ICP 4,Too Small,Beauty + Wellness,Private for-profit,136,0,,,"2384 86th St Brooklyn, NY",New York
+7875908260,Empire Beauty Schools - Brooklyn Park-Fridley,Prospect,Franchise,ICP 4,No Data,Beauty + Wellness,,,0,,,15 Ward Street,Minnesota
+6930899850,Empire Beauty Schools - Buffalo,Prospect,Franchise,ICP 4,Too Small,Beauty + Wellness,Private for-profit,75,0,,,"2190 Walden Avenue Cheektowaga, NY",New York
+6931083540,Empire Beauty Schools - Chandler-Gilbert,Prospect,Franchise,ICP 4,Too Small,Beauty + Wellness,Private for-profit,44,0,,,"2978 N Alma School Rd #1-3 Chandler, AZ",Arizona
+6930934961,Empire Beauty Schools - Charlotte,Prospect,Franchise,ICP 4,Too Small,Beauty + Wellness,Private for-profit,77,0,,,"4901-B N Tryon St Charlotte, NC",North Carolina
+6931049030,Empire Beauty Schools - Charlotte-Concord,Prospect,Franchise,ICP 4,Too Small,Beauty + Wellness,Private for-profit,89,0,,,"Shoppes at Kings Grant 10075 Weddington Rd Concord, NC",North Carolina
+6931022892,Empire Beauty Schools - Charlotte-Pineville,Prospect,Franchise,ICP 4,Too Small,Beauty + Wellness,Private for-profit,64,0,,,"8700 Pineville-Matthews Rd Charlotte, NC",North Carolina
+6930889535,Empire Beauty Schools - Cherry Hill,Prospect,Franchise,ICP 4,Too Small,Beauty + Wellness,Private for-profit,89,0,,,"2100 State Highway #38 Plaza Cherry Hill Cherry Hill, NJ",New Jersey
+6930934954,Empire Beauty Schools - Cincinnati,Prospect,Franchise,ICP 4,Too Small,Beauty + Wellness,Private for-profit,143,0,,,"8419 Colerain Ave Cincinnati, OH",Ohio
+6930889542,Empire Beauty Schools - Elizabethtown-Fort Knox,Prospect,Franchise,ICP 4,Too Small,Beauty + Wellness,Private for-profit,109,0,,,"554 Westport Road Elizabethtown, KY",Kentucky
+6931061616,Empire Beauty Schools - Florence-Cincinnati,Prospect,Franchise,ICP 4,Too Small,Beauty + Wellness,Private for-profit,104,0,,,"7285 Turfway Rd Florence, KY",Kentucky
+6931069004,Empire Beauty Schools - Framingham,Prospect,Franchise,ICP 4,Too Small,Beauty + Wellness,Private for-profit,7,0,,,"624 Worcester Rd Framingham, MA",Massachusetts
+6930934952,Empire Beauty Schools - Glen Burnie-Baltimore,Prospect,Franchise,ICP 4,Too Small,Beauty + Wellness,Private for-profit,80,0,Clic/Proprietary,Proprietary,"6320 Ritchie Hwy Suite F Glen Burnie, MD",Maryland
+7876028580,Empire Beauty Schools - Grand Rapids - Central,Prospect,Franchise,ICP 4,No Data,Beauty + Wellness,,,0,,,15 Ward Street,Michigan
+7876039017,Empire Beauty Schools - Grand Rapids - Northwest,Prospect,Franchise,ICP 4,No Data,Beauty + Wellness,,,0,,,15 Ward Street,Michigan
+6931049027,Empire Beauty Schools - Green Bay,Prospect,Franchise,ICP 4,Too Small,Beauty + Wellness,Private for-profit,61,0,,,"940 Hansen Road Ashwaubenon, WI",Wisconsin
+6931027588,Empire Beauty Schools - Hanover,Prospect,Franchise,ICP 4,Too Small,Beauty + Wellness,Private for-profit,65,0,,,"Clearview Shp Ctr. 1000 Carlisle St S4 Hanover, PA",Pennsylvania
+6930889540,Empire Beauty Schools - Harrisburg,Prospect,Franchise,ICP 4,Too Small,Beauty + Wellness,Private for-profit,148,0,,,"3941 Jonestown Rd Harrisburg, PA",Pennsylvania
+6931352407,Empire Beauty Schools - Indianapolis-Speedway,Prospect,Franchise,ICP 4,Too Small,Beauty + Wellness,Private for-profit,148,0,,,"5750 A Crawfordsville Rd Speedway, IN",Indiana
+6930949022,Empire Beauty Schools - Jackson,Prospect,Franchise,ICP 4,Too Small,Beauty + Wellness,Private for-profit,43,0,,,"1433 Hollywood Dr Jackson, TN",Tennessee
+6930906488,Empire Beauty Schools - Lakeland Winter Haven,Prospect,Franchise,ICP 4,Too Small,Beauty + Wellness,Private for-profit,92,0,,,"Northtowne Square 5101 US Highway 98 N Lakeland, FL",Florida
+6930919700,Empire Beauty Schools - Lancaster,Prospect,Franchise,ICP 4,Too Small,Beauty + Wellness,Private for-profit,55,0,,,"1801 Columbia Ave Lancaster, PA",Pennsylvania
+6930934958,Empire Beauty Schools - Lebanon,Prospect,Franchise,ICP 4,Too Small,Beauty + Wellness,Private for-profit,34,0,Clic/Homegrown,Homegrown SIS,"1776 Quentin Rd Cedar Crest Sq Lebanon, PA",Pennsylvania
+6931069002,Empire Beauty Schools - Littleton- Denver,Prospect,Franchise,ICP 4,Too Small,Beauty + Wellness,Private for-profit,46,0,,,"8996 W. Bowles Ave. # E-F Littleton, CO",Colorado
+6931345020,Empire Beauty Schools - Louisville- Dixie Hwy,Prospect,Franchise,ICP 4,Too Small,Beauty + Wellness,Private for-profit,86,0,,,"5120 Dixie Highway Louisville, KY",Kentucky
+6930914169,Empire Beauty Schools - Louisville-Chenoweth,Prospect,Franchise,ICP 4,Too Small,Beauty + Wellness,Private for-profit,96,0,,,"151 Chenoweth Ln Louisville, KY",Kentucky
+7876028581,Empire Beauty Schools - Louisville-Highland,Prospect,Franchise,ICP 4,No Data,Beauty + Wellness,,,0,,,15 Ward Street,Kentucky
+6931366031,Empire Beauty Schools - Malden-Boston,Prospect,Franchise,ICP 4,Too Small,Beauty + Wellness,Private for-profit,76,0,Clic,Proprietary,"347 Pleasant St Malden, MA",Massachusetts
+6930914170,Empire Beauty Schools - Memphis,Prospect,Franchise,ICP 4,Too Small,Beauty + Wellness,Private for-profit,114,0,,,"568 Colonial Rd Memphis, TN",Tennessee
+6931061620,Empire Beauty Schools - Milwaukee,Prospect,Franchise,ICP 4,Too Small,Beauty + Wellness,Private for-profit,144,0,,,"5655 South 27th St Milwaukee, WI",Wisconsin
+6931366039,Empire Beauty Schools - Monroeville-Pittsburgh,Prospect,Franchise,ICP 4,Too Small,Beauty + Wellness,Private for-profit,81,0,,,"The Plaza 320 Mall Blvd Monroeville, PA",Pennsylvania
+7875814676,Empire Beauty Schools - Moosic-Wilkes-Barre-Scranton,Prospect,Franchise,ICP 4,No Data,Beauty + Wellness,,,0,,,15 Ward Street,Pennsylvania
+7875745331,Empire Beauty Schools - Newport News,Prospect,Franchise,ICP 4,No Data,Beauty + Wellness,,,0,,,15 Ward Street,Virginia
+6931366038,Empire Beauty Schools - Owings Mills-Baltimore,Prospect,Franchise,ICP 4,Too Small,Beauty + Wellness,Private for-profit,74,0,,,"9616 Reisterstown Rd Suite 105 Owings Mills, MD",Maryland
+6930914166,Empire Beauty Schools - Peekskill-Westchester County,Prospect,Franchise,ICP 4,Too Small,Beauty + Wellness,Private for-profit,41,0,,,"19 Bank St Peekskill, NY",New York
+7875928760,Empire Beauty Schools - Philadelphia-Cheltenham,Prospect,Franchise,ICP 4,No Data,Beauty + Wellness,,,0,,,15 Ward Street,Pennsylvania
+6930889541,Empire Beauty Schools - Philadelphia-Northeast,Prospect,Franchise,ICP 4,Too Small,Beauty + Wellness,Private for-profit,87,0,,,"4026 Woodhaven Rd Philadelphia, PA",Pennsylvania
+6931049029,Empire Beauty Schools - Pittsburg North-Hills,Prospect,Franchise,ICP 4,Too Small,Beauty + Wellness,Private for-profit,68,0,,,"4768 McKnight Road Pittsburgh, PA",Pennsylvania
+7875814674,Empire Beauty Schools - Portage-Kalamazoo,Prospect,Franchise,ICP 4,No Data,Beauty + Wellness,,,0,,,15 Ward Street,Michigan
+7876002959,Empire Beauty Schools - Portland,Prospect,Franchise,ICP 4,No Data,Beauty + Wellness,,,0,,,15 Ward Street,Maine
+7875894706,Empire Beauty Schools - Providence,Prospect,Franchise,ICP 4,No Data,Beauty + Wellness,,,0,,,15 Ward Street,Rhode Island
+6931034431,Empire Beauty Schools - Reading,Prospect,Franchise,ICP 4,Too Small,Beauty + Wellness,Private for-profit,94,0,,,"2302 N 5th St Highway Reading, PA",Pennsylvania
+6930919704,Empire Beauty Schools - Richmond,Prospect,Franchise,ICP 4,Too Small,Beauty + Wellness,Private for-profit,75,0,,,"9049 West Broad St. #3 Richmond, VA",Virginia
+6329950770,Empire Beauty Schools - Rochester,Prospect,Franchise,ICP 4,Too Small,Beauty + Wellness,Private for-profit,77,0,PivotPoint,SMART,"340 Elmridge Center Drive Rochester, NY",New Hampshire
+6931076429,Empire Beauty Schools - Savannah,Prospect,Franchise,ICP 4,Too Small,Beauty + Wellness,Private for-profit,138,0,,,"Savannah Centre 7400 Abercorn St Suite 901 Savannah, GA",Georgia
+6931068998,Empire Beauty Schools - Shamokin Dam-Sunbury,Prospect,Franchise,ICP 4,Too Small,Beauty + Wellness,Private for-profit,55,0,,,"30 Baldwin Blvd Suite 50 Shamokin Dam, PA",Pennsylvania
+6931041317,Empire Beauty Schools - Springfield-Delaware County,Prospect,Franchise,ICP 4,Too Small,Beauty + Wellness,Private for-profit,130,0,,,"799 W Sproul Rd Springfield, PA",Pennsylvania
+6931027592,Empire Beauty Schools - Tampa Brandon,Prospect,Franchise,ICP 4,Too Small,Beauty + Wellness,Private for-profit,91,0,,,"Brandon Crossings 10083 East Adamo Drive Tampa, FL",Florida
+6931068997,Empire Beauty Schools - Thornton- Denver,Prospect,Franchise,ICP 4,Too Small,Beauty + Wellness,Private for-profit,93,0,,,"3811 E 120th Ave Thornton, CO",Colorado
+6931027589,Empire Beauty Schools - Union-Newark,Prospect,Franchise,ICP 4,Too Small,Beauty + Wellness,Private for-profit,141,0,,,"1126 Morris Ave Union, NJ",New Jersey
+6931061623,Empire Beauty Schools - Vernon Hills-Chicago,Prospect,Franchise,ICP 4,Too Small,Beauty + Wellness,Private for-profit,71,0,,,"226 Hawthorn Village Commons Vernon Hills, IL",Illinois
+6931061617,Empire Beauty Schools - Virginia Beach,Prospect,Franchise,ICP 4,Too Small,Beauty + Wellness,Private for-profit,125,0,,,"116 South Independence Boulevard Virginia Beach, VA",Virginia
+6930934955,Empire Beauty Schools - West Greensboro,Prospect,Franchise,ICP 4,Unknown Tech Stack,Beauty + Wellness,Private for-profit,,0,,,1807 Wilshire Boulevard,North Carolina
+6930949020,Empire Beauty Schools - West Mifflin-Pittsburgh,Prospect,Franchise,ICP 4,Too Small,Beauty + Wellness,Private for-profit,78,0,,,"2394 Mountainview Dr West Mifflin, PA",Pennsylvania
+6931076425,Empire Beauty Schools - West Palm Beach,Prospect,Franchise,ICP 4,Too Small,Beauty + Wellness,Private for-profit,28,0,CLIC,Student Portal,"4258 Okeechobee Blvd West Palm Beach, FL",Florida
+6930906487,Empire Beauty Schools - Winston-Salem,Prospect,Franchise,ICP 4,Too Small,Beauty + Wellness,Private for-profit,70,0,,,"7740 N Point Blvd Winston-Salem, NC",North Carolina
+6931049032,Empire Beauty Schools - York,Prospect,Franchise,ICP 4,Too Small,Beauty + Wellness,Private for-profit,68,0,,,"2592 Eastern Blvd Kingston Square Shopping Ctr York, PA",Pennsylvania
+6930919703,Empire Education Group - Pottsville,Prospect,Franchise,ICP 4,Too Small,Beauty + Wellness,Private for-profit,44,0,,,"396 Pottsville - St. Clair Highway Pottsville, PA",Pennsylvania
+7875745332,ESI - Austin,Prospect,Franchise,ICP 4,No Data,Beauty + Wellness,,,0,,,"Austin, TX",TX
+4104332081,ESI - Durham,Prospect,Franchise,ICP 4,Too Small,Beauty + Wellness,Private for-profit,124,0,,FAME,"ESI Durham – 300 E. Main Street Durham, NC 27701",NC
+7876051351,ESI - Houston,Prospect,Franchise,ICP 4,No Data,Beauty + Wellness,,,0,,,"Houston, TX",TX
+7876081960,ESI - Miami Beach,Prospect,Franchise,ICP 4,No Data,Beauty + Wellness,,,0,,,"ESI Miami Beach 1500 Bay Road C1 Miami Beach, FL 33139",FL
+7529762102,ESI - Royal Oak,Prospect,Franchise,ICP 4,No Data,Beauty + Wellness,,,0,,,"ESI Royal Oak – 4050 Crooks Road Royal Oak, MI 48073",MI
+7875954706,ESI - Utica,Prospect,Franchise,ICP 4,No Data,Beauty + Wellness,,,0,,,"Utica, MI",MI
+4108748713,ESI - Westminster,Prospect,Franchise,ICP 4,Too Small,Beauty + Wellness,Private for-profit,62,0,Milady,FAME,"ESI Westminster – 6775 W. 88th Ave Westminster, CO 80031",CO
+7722270082,Jean Madeline Aveda Institute - Neshaminy Mall,Prospect,Franchise,ICP 4,Bad Tech Stack,Beauty + Wellness,Private for-profit,,0,PivotPoint,Genisis,"528 Neshaminy Mall - Bensalem, Pennsylvania",Pennsylvania
+7722083221,Jean Madeline Aveda Institute - University City,Prospect,Franchise,ICP 4,Bad Tech Stack,Beauty + Wellness,Private for-profit,,0,PivotPoint,Genisis,"3945 Chestnut Street - Philadelphia, Pennsylvania",Pennsylvania
+4104332267,JZ Trend Academy Paul Mitchell Partner School,Prospect,Franchise,ICP 4,Too Small,Beauty + Wellness,Private for-profit,35,,,FAME,8000 U.S. 64,North Dakota
+4159247691,Michael's School of Hair Design & Esthetics: A Paul Mitchell Partner School,Prospect,Franchise,ICP 4,Too Small,Beauty + Wellness,Private for-profit,86,0,,FAME,1036 Hanover Street,New Hampshire
+4108744235,Nathan Layne Institute,Prospect,Franchise,ICP 4,Too Small,Beauty + Wellness,Private for-profit,18,0,,,"141 East Chubbuck Road Chubbuck, ID",Idaho
+4108679039,O'Briens Aveda Institute - Williston,Prospect,Franchise,ICP 4,Too Small,Beauty + Wellness,Private for-profit,111,,PivotPoint,SMART,"400 Cornerstone Drive - Williston, Vermont",Vermont
+6974610995,pathwayvocational.com,Prospect,Franchise,ICP 4,No Data,Beauty + Wellness,,,0,,,"3141 College St, Ste A-10",Texas
+6935680693,Paul Mitchell the School - Ardmore,Prospect,Franchise,ICP 4,Unknown LMS,Beauty + Wellness,Private for-profit,,0,,FAME,"607 North Commerce Street Ardmore, OK",Oklahoma
+4214558776,Paul Mitchell the School - East Bay,Prospect,Franchise,ICP 4,Too Small,Beauty + Wellness,Private for-profit,128,,,FAME,9756 Sandy Parkway,California
+6935686429,Paul Mitchell the School - Jersey Shore,Prospect,Franchise,ICP 4,Too Small,Beauty + Wellness,Private for-profit,61,0,,FAME,"712 Route 70 Brick, NJ",New Jersey
+6936166156,Paul Mitchell the School - Lansing,Prospect,Franchise,ICP 4,Too Small,Beauty + Wellness,Private for-profit,0,0,,FAME,9756 Sandy Parkway,Utah
+7430679627,Paul Mitchell the School - Northstar,Prospect,Franchise,ICP 4,Unknown LMS,Beauty + Wellness,Private for-profit,,0,,FAME,9756 Sandy Parkway,Utah
+4583941584,Paul Mitchell the School - Oklahoma City,Prospect,Franchise,ICP 4,Unknown Tech Stack,Beauty + Wellness,Private for-profit,,0,,,2900 BRISTOL ST,California
+5807099305,Paul Mitchell the School - Portland,Prospect,Franchise,ICP 4,Too Small,Beauty + Wellness,Private for-profit,139,0,,,"234 SW Broadway Portland, OR",Oregon
+7284079154,Paul Mitchell the School - SHV,Prospect,Franchise,ICP 4,Unknown LMS,Beauty + Wellness,Private for-profit,,0,,FAME,9756 Sandy Parkway,Utah
+7286933506,Paul Mitchell the School - Vanguard,Prospect,Franchise,ICP 4,Too Small,Beauty + Wellness,Private for-profit,124,0,,FAME,9756 Sandy Parkway,Utah
+4108710630,Smart Choice Connections LLC,Target Account,,ICP 4,No Data,,,,,,,901 W Yamato Rd,Florida
+6936279911,Summit Salon Academy - Anderson,Prospect,Franchise,ICP 4,Too Small,Beauty + Wellness,Private for-profit,142,0,,SMART,"1944 East 53rd Street Anderson, IN",IN
+6936300663,Summit Salon Academy - Gainesville,Prospect,Franchise,ICP 4,Too Small,Beauty + Wellness,Private for-profit,96,0,PivotPoint,SMART,"6915 NW 4th Blvd. Suite B Gainesville, FL",FL
+4108748834,Summit Salon Academy - Kokomo,Prospect,Franchise,ICP 4,Too Small,Beauty + Wellness,Private for-profit,117,0,PivotPoint,SMART,"1012 S Reed Rd Kokomo, IN",IN
+4108748915,Summit Salon Academy - Lexington,Prospect,Franchise,ICP 4,Too Small,Beauty + Wellness,Private for-profit,54,0,PivotPoint,SMART,"1300 E New Circle Rd Ste 110 Lexington, KY",KY
+6936307221,Summit Salon Academy - Perrysburg,Prospect,Franchise,ICP 4,Too Small,Beauty + Wellness,Private for-profit,88,0,,Genisis,"116 W S Boundary St Perrysburg, OH",OH
+6936328538,Summit Salon Academy - Portland,Prospect,Franchise,ICP 4,Too Small,Beauty + Wellness,Private for-profit,74,0,PivotPoint,Emasters (Boston ED),"8820 SW Center Tigard, OR",OR
+4712975218,Summit Salon Academy - Portland,Prospect,Franchise,ICP 4,Unknown SIS,Beauty + Wellness,,,0,PivotPoint,,8820 Southwest Center Street,Oregon
+4108780720,Summit Salon Academy - Tacoma,Prospect,Franchise,ICP 4,Too Small,Beauty + Wellness,Private for-profit,133,0,,Prestige,"3702 S Fife Street Ste B102 Tacoma, WA",WA
+7305549886,System u002d A Paul Mitchell Partner School,Prospect,Franchise,ICP 4,Too Small,Beauty + Wellness,Private for-profit,101,0,,FAME,8000 U.S. 64,Missouri
+6220842273,The Institute of Beauty and Wellness - Madison,Prospect,Franchise,ICP 4,Too Small,Beauty + Wellness,Private for-profit,100,0,PivotPoint,FAME,"353 East Campus Mall - Madison, Wisconsin",Wisconsin
+4108657978,The Salon Professional Academy - Altoona,Prospect,Franchise,ICP 4,Too Small,Beauty + Wellness,Private for-profit,58,0,Milady,SMART,"415 Orchard Ave, Altoona, PA 16601",PA
+7876039018,The Salon Professional Academy - Appleton,Prospect,Franchise,ICP 4,Too Small,Beauty + Wellness,Private for-profit,76,0,,,"3355 West College Ave. Appleton, WI 54914",WI
+7876062575,The Salon Professional Academy - Battle Creek,Prospect,Franchise,ICP 4,Too Small,Beauty + Wellness,,36,0,,,"1416 W. Columbia Ave. Battle Creek, MI 490015",MI
+7875928759,The Salon Professional Academy - Buffalo,Prospect,Franchise,ICP 4,No Data,Beauty + Wellness,,,0,,,"2309 Eggert Road Tonawanda, NY 14150",NY
+6936300660,The Salon Professional Academy - Cedar Falls,Prospect,Franchise,ICP 4,Too Small,Beauty + Wellness,Private for-profit,97,0,Milady,SMART,"1350 College Square Cedar Falls, IA 50613",IA
+7876028579,The Salon Professional Academy - Collegeville,Prospect,Franchise,ICP 4,Too Small,Beauty + Wellness,,68,0,Milady,SMART,"130 W. Main Street Ste. 106 Collegeville,PA 19246",PA
+6935788834,The Salon Professional Academy - Colorado Springs,Prospect,Franchise,ICP 4,Too Small,Beauty + Wellness,Private for-profit,74,0,Milady,,"4388 Austin Bluffs Pkwy Colorado Springs, CO 80918",CO
+7876081961,The Salon Professional Academy - Dallas,Prospect,Franchise,ICP 4,No Data,Beauty + Wellness,,,0,,,"2440 B Stemmons Fwy Lewisville, TX 75067",TX
+6936317540,The Salon Professional Academy - Delray Beach,Prospect,Franchise,ICP 4,Too Small,Beauty + Wellness,Private for-profit,47,0,,,"14610 S. Military Trail Delray Beach, FL 33484",FL
+7876028582,The Salon Professional Academy - Duluth,Prospect,Franchise,ICP 4,No Data,Beauty + Wellness,,,0,,,"Duluth, MN",MN
+4108739556,The Salon Professional Academy - Fargo,Open Deal,Franchise,ICP 4,Too Small,Beauty + Wellness,Private for-profit,128,0,Milady,SMART,"4377 15th Ave. S Fargo, ND 58103",ND
+6304904511,The Salon Professional Academy - Fort Myers,Prospect,Franchise,ICP 4,Too Small,Beauty + Wellness,Private for-profit,86,0,Milady,,"1388 Colonial Blvd. Fort Myers, FL 33907",FL
+7876039016,The Salon Professional Academy - Fort Wayne,Prospect,Franchise,ICP 4,Bad Tech Stack,Beauty + Wellness,,,0,,Invision,"10264 Coldwater Rd. Fort Wayne, IN 46825",IN
+6936344888,The Salon Professional Academy - Georgetown,Prospect,Franchise,ICP 4,Too Small,Beauty + Wellness,Private for-profit,45,0,,,"901 IH 35 Ste 102 Georgetown, TX 78626",TX
+4104335846,The Salon Professional Academy - Grand Junction,Prospect,Franchise,ICP 4,Too Small,Beauty + Wellness,Private for-profit,53,0,,,"432 North Avenue Grand Junction, CO",Colorado
+7875908258,The Salon Professional Academy - Harrisonburg,Prospect,Franchise,ICP 4,No Data,Beauty + Wellness,,,0,,,"Harrisonburg, VA",VA
+6936332970,The Salon Professional Academy - Holland,Prospect,Franchise,ICP 4,Too Small,Beauty + Wellness,Private for-profit,21,0,Milady,SMART,"2975 W Shore Dr, Holland, MI 49424",MI
+7876081962,The Salon Professional Academy - Howell,Prospect,Franchise,ICP 4,No Data,Beauty + Wellness,,,0,,,"4741 US Route 9 Howell, NJ 07731",NJ
+6936285361,The Salon Professional Academy - Huntsville,Prospect,Franchise,ICP 4,Too Small,Beauty + Wellness,Private for-profit,59,0,PivotPoint,FAME,"4925 University Drive Suite 134 Huntsville, AL",Alabama
+6936253211,The Salon Professional Academy - Kenosha,Prospect,Franchise,ICP 4,Too Small,Beauty + Wellness,Private for-profit,107,0,,,"3701 80th Street Suite B Kenosha, WI",Wisconsin
+4713022919,The Salon Professional Academy - Lewisville,Prospect,Franchise,ICP 4,Too Small,Beauty + Wellness,Private for-profit,120,0,,,"2440 B S Stemmons Fwy Lewisville, TX",Texas
+7875842173,The Salon Professional Academy - Maplewood,Prospect,Franchise,ICP 4,No Data,Beauty + Wellness,,,0,,,"3000 White Bear Ave. Maplewood, MN 55109",MN
+7875882789,The Salon Professional Academy - Melbourne,Prospect,Franchise,ICP 4,Too Small,Beauty + Wellness,Private for-profit,141,0,,,"1700 W. New Haven Ave. Melbourne, FL 32904",FL
+6775131227,The Salon Professional Academy - Nampa,Prospect,Franchise,ICP 4,Too Small,Beauty + Wellness,Private for-profit,91,0,Milady,Genisis,"120 Holly Street Nampa, ID 83686",ID
+6936265100,The Salon Professional Academy - Nashville,Prospect,Franchise,ICP 4,Too Small,Beauty + Wellness,Private for-profit,46,0,PivotPoint,FAME,"2710 Old Lebanon Road Suite 6 Nashville, TN",Tennessee
+4108780912,The Salon Professional Academy - North Little Rock,Prospect,Franchise,ICP 4,Too Small,Beauty + Wellness,Private for-profit,111,0,,SMART,"13125 HWY 107 Sherwood, AR",Arkansas
+4713022921,The Salon Professional Academy - Onalaska,Prospect,Franchise,ICP 4,Too Small,Beauty + Wellness,Private for-profit,68,0,PivotPoint,SMART,"566 Theater Rd Onalaska, WI",Wisconsin
+7875977316,The Salon Professional Academy - Orlando,Prospect,Franchise,ICP 4,No Data,Beauty + Wellness,,,0,,,"Orlando, FL",FL
+4108718749,The Salon Professional Academy - Rapid City,Prospect,Franchise,ICP 4,Too Small,Beauty + Wellness,Private for-profit,53,0,,,"Rapid City, SD",SD
+4104391019,The Salon Professional Academy - San Antonio,Prospect,Franchise,ICP 4,Too Small,Beauty + Wellness,Private for-profit,90,0,,,"16640 San Pedro Ave. San Antonio, TX 78232",TX
+6936312437,The Salon Professional Academy - Shorewood,Prospect,Franchise,ICP 4,Too Small,Beauty + Wellness,Private for-profit,19,0,,,"335 Vertin Blvd. Shorewood, IL 60404",IL
+6715465123,The Salon Professional Academy - Washington DC,Prospect,Franchise,ICP 4,Too Small,Beauty + Wellness,Private for-profit,29,0,,,"90 K Street NE Ste. 103 Washington, DC 20002",DC
+7876109312,The Salon Professional Academy - Whitehouse,Prospect,Franchise,ICP 4,No Data,Beauty + Wellness,,,0,,,"601 State Highway 110 N Ste. Q Whitehouse, TX 75791",TX
+6936322688,Toni & Guy Hairdressing Academy - Albuquerque,Prospect,Franchise,ICP 4,Too Small,Beauty + Wellness,Private for-profit,139,0,PivotPoint,,"2201 Uptown Loop Rd NE - Albuquerque, NM 87110",NM
+7876094064,Toni & Guy Hairdressing Academy - Braintree,Prospect,Franchise,ICP 4,Unknown SIS,Beauty + Wellness,,,0,PivotPoint,,"727A Granite St - Braintree, MA 02184",MA
+6936322693,Toni & Guy Hairdressing Academy - Coeur d' Alene,Prospect,Franchise,ICP 4,Too Small,Beauty + Wellness,Private for-profit,55,0,PivotPoint,,"410 W Neider Ave - Coeur d' Alene, ID 83815",ID
+4108753863,Toni & Guy Hairdressing Academy - Costa Mesa,Prospect,Franchise,ICP 4,Too Small,Beauty + Wellness,Private for-profit,139,0,PivotPoint,RGM,"3400 Bristol St - Costa Mesa, CA 92626",CA
+6936307212,Toni & Guy Hairdressing Academy - Cranston,Prospect,Franchise,ICP 4,Too Small,Beauty + Wellness,Private for-profit,129,0,PivotPoint,FAME,"1400 Oaklawn Ave - Cranston, RI 02920",RI
+7826830439,Toni & Guy Hairdressing Academy - Los Angeles,Prospect,Franchise,ICP 4,Unknown SIS,Beauty + Wellness,,,0,PivotPoint,,"1358 5th St - Santa Monica, CA 90401",CA
+7875965312,Toni & Guy Hairdressing Academy - Manteca,Prospect,Franchise,ICP 4,Unknown SIS,Beauty + Wellness,,,0,PivotPoint,,"1019 S Main St - Manteca, CA 95337",CA
+7875965313,Toni & Guy Hairdressing Academy - Newtown,Prospect,Franchise,ICP 4,Too Small,Beauty + Wellness,,109,0,PivotPoint,RGM,"99 S Main St - Newtown, CT 06470",CT
+6935761543,Toni & Guy Hairdressing Academy - Plano,Prospect,Franchise,ICP 4,Too Small,Beauty + Wellness,Private for-profit,147,1,PivotPoint,RGM,"1921 Preston Rd - Plano, TX 75093",TX
+6936344880,Toni & Guy Hairdressing Academy - Rio Rancho,Prospect,Franchise,ICP 4,Too Small,Beauty + Wellness,Private for-profit,21,0,PivotPoint,,"1001 Golf Course Road #104 & #105 Rio Rancho, NM",New Mexico
+7875814675,Toni & Guy Hairdressing Academy - San Jose,Prospect,Franchise,ICP 4,Unknown SIS,Beauty + Wellness,,,0,PivotPoint,,"2200 Eastridge Loop - San Jose, CA 95122",CA
+6936285352,Toni & Guy Hairdressing Academy - Scottsdale,Prospect,Franchise,ICP 4,Too Small,Beauty + Wellness,Private for-profit,35,0,PivotPoint,RGM,"8939 E Talking Stick Way - Scottsdale, AZ 85250",AZ
+6936279908,Toni & Guy Hairdressing Academy - Seattle,Prospect,Franchise,ICP 4,Too Small,Beauty + Wellness,Private for-profit,48,0,PivotPoint,,"18336 Aurora Ave N - Shoreline, WA 98133",WA
+6936344881,Tricoci - Bloomington,Prospect,Franchise,ICP 4,Too Small,Beauty + Wellness,Private for-profit,120,0,PivotPoint,FAME,"1681 N. College Ave Bloomington, IN",Indiana
+6935761552,Tricoci - Chicago NE (Rogers Park),Prospect,Franchise,ICP 4,Too Small,Beauty + Wellness,Private for-profit,114,0,PivotPoint,FAME,"6458 North Sheridan Road Chicago, IL",Illinois
+6936265102,Tricoci - Elgin,Prospect,Franchise,ICP 4,Too Small,Beauty + Wellness,Private for-profit,121,0,PivotPoint,FAME,"264 South Randall Road Elgin, IL",Illinois
+6936344883,Tricoci - Glendale Heights,Prospect,Franchise,ICP 4,Too Small,Beauty + Wellness,Private for-profit,101,0,PivotPoint,FAME,"530 E North Ave Glendale Heights, IL",Illinois
+6936265106,Tricoci - Janesville,Prospect,Franchise,ICP 4,Too Small,Beauty + Wellness,Private for-profit,56,0,PivotPoint,FAME,"2310 W. Court Street Janesville, WI",Wisconsin
+6936270263,Tricoci - Lafayette,Prospect,Franchise,ICP 4,Too Small,Beauty + Wellness,Private for-profit,75,0,PivotPoint,FAME,"833 Ferry Street Lafayette, IN",Indiana
+6936307222,Tricoci - Normal,Prospect,Franchise,ICP 4,Too Small,Beauty + Wellness,Private for-profit,21,0,PivotPoint,FAME,"2500 Georgetown Rd Danville, IL",Illinois
+6936279903,Tricoci - Peoria,Prospect,Franchise,ICP 4,Too Small,Beauty + Wellness,Private for-profit,127,0,PivotPoint,FAME,"602 W Glen Ave Peoria, IL",Illinois
+6938169427,Vanguard College of Cosmetology - Metairie,Prospect,Franchise,ICP 4,Too Small,Beauty + Wellness,Private for-profit,127,0,,,"3321 Hessmer Avenue Metairie, LA",Louisiana
+6938530998,Vanguard College of Cosmetology - Slidell,Prospect,Franchise,ICP 4,Too Small,Beauty + Wellness,Private for-profit,116,0,,,8000 U.S. 64,Louisiana
+4108744220,West-MEC,Target Account,,ICP 4,No Data,,,,0,,,5487 North 99th Avenue,Arizona
+4108754052,Wisconsin Academy a Paul Mitchell Partner Group,Prospect,Franchise,ICP 4,Too Small,Beauty + Wellness,Private for-profit,44,,,FAME,611 E Porter St,Wisconsin
+4108647926,Woodruff Medical Training and Testing - Corporate Office,Target Account,Corporate Office,ICP 4,Too Small,Allied Health,Private for-profit,56,2,Canvas,Campus Cafe,1927 Lakeside Parkway,Georgia
+6931366035,Empire Beauty School - Flagstaff,Not Viable,Franchise,Not Viable,Not Viable,Beauty + Wellness,Private for-profit,37,0,,,"1790 E Rte 66 Flagstaff, AZ",Arizona
+6930906479,Empire Beauty Schools - Indianapolis,Not Viable,Franchise,Not Viable,Not Viable,Beauty + Wellness,Private for-profit,238,0,,,"3810 E Southport Rd. Indianapolis, IN",Indiana
+4108753843,Platt College - San Diego,Not Viable,Franchise,Not Viable,Not Viable,Career + Trade,Private for-profit,96,0,,,"6250 El Cajon Blvd San Diego, CA",California
+6936344884,Toni & Guy Hairdressing Academy - Atlanta,Not Viable,Franchise,Not Viable,Not Viable,Beauty + Wellness,Private for-profit,65,0,PivotPoint,RGM,"1355 Roswell Rd - Marietta, GA 30062",GA
+7529824352,Toni & Guy Hairdressing Academy - Jacksonville,Not Viable,Franchise,Not Viable,Not Viable,Beauty + Wellness,,,0,PivotPoint,,"8206 Philips Hwy. Suite 33 - Jacksonville, FL 32256",FL
+7876109240,Toni & Guy Hairdressing Academy - Modesto,Not Viable,Franchise,Not Viable,Not Viable,,,,0,PivotPoint,,"2425 McHenry Ave - Modesto, CA 95350",CA
+7876016648,Toni & Guy Hairdressing Academy - Pittsburgh,Not Viable,Franchise,Not Viable,Not Viable,,,,0,PivotPoint,,"230 Oak Spring Road - Washington, PA 15301",PA
